@@ -1,0 +1,24 @@
+Visualization
+
+Analyzing The Chart:
+
+
+               The Chart is Clustered Column Chart 
+         
+     
+The sum of quantity Z quantity By Food Type (Food Details)Food -Type;
+
+
+               Y-axis= Sum of Quantity
+               
+               X-axis=Food Type
+
+
+Include:
+        Main Course (6000)
+        Snacks (4000)
+        Desert(1000)
+        Breakfast (1000)
+        Beverage (Nil)
+        Appetizer (Nil)
+      
