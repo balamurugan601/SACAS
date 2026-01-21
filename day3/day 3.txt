@@ -1,0 +1,49 @@
+Sales & Customer Analysis Report (April 2023)
+The analysis highlights key patterns in customer behavior, payment preferences, and restaurant performance.
+1. Sales by Member Type & Payment Method
+
+
+Gold members contribute significantly higher order quantities than Regular members.
+
+
+UPI is the most preferred payment method across both member types, followed by COD, while Card payments are the least used.
+
+
+Gold members show stronger engagement across all payment methods.
+
+
+2. Customer Contribution
+
+
+Sales are distributed across many customers, with a few customers (e.g., Rituraj Desai, Kartik Patel) contributing a relatively higher share.
+
+
+The customer base is diversified, indicating low dependency on a single customer.
+
+
+3. Restaurant Performance
+
+
+Multiple restaurant codes show consistent order counts across months.
+
+
+No extreme fluctuations are observed, suggesting stable demand across restaurants.
+
+
+April sales align closely with previous months, indicating steady business performance.
+
+
+Overall Insight
+The business benefits strongly from Gold membership users and digital payments (UPI). Customer demand is well-distributed, and restaurant performance remains stable, reflecting healthy operational consistency.
+
+If you want, I can also:
+
+
+Make this more business-friendly
+
+
+Convert it into a presentation slide
+
+
+Add recommendations & action points
+
