@@ -1,0 +1,1201 @@
+Sales_ID,Sales_Date,Region,Product_Category,Product_Type,Units_Sold,Unit_Price_USD,Total_Sales_USD
+1,2023-01-01,Latin America,Footwear,Bags,11,141.74,1559.14
+2,2023-01-02,Europe,Apparel,Shorts,5,106.0,530.0
+3,2023-01-03,India,Apparel,Training Shoes,17,123.03,2091.51
+4,2023-01-04,India,Equipment,Bags,1,173.33,173.33
+5,2023-01-05,Latin America,Apparel,Basketball Shoes,19,139.47,2649.93
+6,2023-01-06,Europe,Equipment,Bags,2,226.05,452.1
+7,2023-01-07,North America,Apparel,T-Shirts,4,98.08,392.32
+8,2023-01-08,Europe,Equipment,Jackets,16,219.22,3507.52
+9,2023-01-09,Asia-Pacific,Equipment,Bags,19,92.7,1761.3
+10,2023-01-10,Asia-Pacific,Footwear,T-Shirts,14,57.63,806.82
+11,2023-01-11,North America,Footwear,Running Shoes,17,53.63,911.71
+12,2023-01-12,Latin America,Apparel,Shorts,9,84.78,763.02
+13,2023-01-13,North America,Footwear,Shorts,9,231.34,2082.06
+14,2023-01-14,Latin America,Apparel,Training Shoes,19,205.1,3896.9
+15,2023-01-15,North America,Footwear,Basketball Shoes,16,190.46,3047.36
+16,2023-01-16,India,Equipment,Bags,11,93.96,1033.56
+17,2023-01-17,Asia-Pacific,Footwear,Basketball Shoes,15,73.72,1105.8
+18,2023-01-18,India,Apparel,Basketball Shoes,10,106.38,1063.8
+19,2023-01-19,Latin America,Apparel,Running Shoes,10,175.32,1753.2
+20,2023-01-20,Latin America,Apparel,T-Shirts,18,61.52,1107.36
+21,2023-01-21,North America,Equipment,Training Shoes,11,143.88,1582.68
+22,2023-01-22,North America,Apparel,Bags,14,107.95,1511.3
+23,2023-01-23,North America,Equipment,Training Shoes,1,195.94,195.94
+24,2023-01-24,India,Footwear,Shorts,7,169.9,1189.3
+25,2023-01-25,North America,Apparel,Running Shoes,10,58.58,585.8
+26,2023-01-26,Asia-Pacific,Equipment,Running Shoes,15,94.52,1417.8
+27,2023-01-27,North America,Footwear,Basketball Shoes,19,206.78,3928.82
+28,2023-01-28,Europe,Footwear,T-Shirts,4,224.61,898.44
+29,2023-01-29,Latin America,Apparel,Running Shoes,13,139.99,1819.87
+30,2023-01-30,Europe,Apparel,T-Shirts,17,211.1,3588.7
+31,2023-01-31,India,Footwear,Training Shoes,15,72.39,1085.85
+32,2023-02-01,India,Apparel,Training Shoes,19,116.36,2210.84
+33,2023-02-02,North America,Footwear,Training Shoes,4,169.78,679.12
+34,2023-02-03,India,Footwear,Jackets,5,31.24,156.2
+35,2023-02-04,North America,Equipment,Basketball Shoes,7,144.15,1009.05
+36,2023-02-05,Europe,Equipment,Bags,9,216.87,1951.83
+37,2023-02-06,North America,Equipment,Bags,4,72.26,289.04
+38,2023-02-07,North America,Equipment,Running Shoes,18,27.65,497.7
+39,2023-02-08,Latin America,Footwear,Bags,5,170.73,853.65
+40,2023-02-09,Latin America,Footwear,Basketball Shoes,14,173.64,2430.96
+41,2023-02-10,Latin America,Footwear,Running Shoes,8,79.6,636.8
+42,2023-02-11,Asia-Pacific,Apparel,Jackets,4,98.44,393.76
+43,2023-02-12,Europe,Equipment,Jackets,10,102.4,1024.0
+44,2023-02-13,India,Footwear,Jackets,11,43.75,481.25
+45,2023-02-14,North America,Apparel,Shorts,3,192.43,577.29
+46,2023-02-15,Latin America,Footwear,T-Shirts,8,73.23,585.84
+47,2023-02-16,North America,Apparel,Shorts,11,198.67,2185.37
+48,2023-02-17,Latin America,Equipment,Jackets,1,171.56,171.56
+49,2023-02-18,India,Apparel,Running Shoes,14,48.34,676.76
+50,2023-02-19,Europe,Apparel,Jackets,8,193.29,1546.32
+51,2023-02-20,India,Apparel,T-Shirts,13,57.35,745.55
+52,2023-02-21,India,Apparel,Shorts,14,173.11,2423.54
+53,2023-02-22,India,Footwear,T-Shirts,13,42.46,551.98
+54,2023-02-23,Europe,Equipment,Jackets,17,155.65,2646.05
+55,2023-02-24,India,Footwear,Basketball Shoes,4,124.95,499.8
+56,2023-02-25,India,Footwear,Shorts,5,142.93,714.65
+57,2023-02-26,Latin America,Apparel,Shorts,3,193.44,580.32
+58,2023-02-27,India,Equipment,Basketball Shoes,1,191.12,191.12
+59,2023-02-28,Europe,Apparel,Jackets,15,35.24,528.6
+60,2023-03-01,India,Equipment,Shorts,3,61.74,185.22
+61,2023-03-02,Europe,Apparel,Shorts,7,245.95,1721.65
+62,2023-03-03,Europe,Footwear,Shorts,2,123.85,247.7
+63,2023-03-04,Europe,Equipment,Bags,5,209.88,1049.4
+64,2023-03-05,Asia-Pacific,Equipment,Running Shoes,18,148.91,2680.38
+65,2023-03-06,India,Equipment,Training Shoes,6,198.98,1193.88
+66,2023-03-07,Asia-Pacific,Footwear,Bags,15,40.93,613.95
+67,2023-03-08,Asia-Pacific,Footwear,Jackets,14,137.86,1930.04
+68,2023-03-09,India,Footwear,Bags,18,194.28,3497.04
+69,2023-03-10,India,Footwear,Bags,15,118.43,1776.45
+70,2023-03-11,Asia-Pacific,Equipment,Basketball Shoes,15,185.94,2789.1
+71,2023-03-12,North America,Equipment,Bags,4,211.98,847.92
+72,2023-03-13,Latin America,Footwear,Training Shoes,13,208.23,2706.99
+73,2023-03-14,India,Apparel,Basketball Shoes,10,71.22,712.2
+74,2023-03-15,Europe,Equipment,Basketball Shoes,1,229.14,229.14
+75,2023-03-16,Europe,Apparel,Jackets,7,156.0,1092.0
+76,2023-03-17,Latin America,Equipment,Running Shoes,4,66.26,265.04
+77,2023-03-18,India,Equipment,Shorts,15,203.34,3050.1
+78,2023-03-19,Latin America,Apparel,Basketball Shoes,6,82.23,493.38
+79,2023-03-20,Latin America,Footwear,Running Shoes,2,99.89,199.78
+80,2023-03-21,Latin America,Footwear,Bags,16,118.67,1898.72
+81,2023-03-22,India,Apparel,Training Shoes,12,138.72,1664.64
+82,2023-03-23,India,Apparel,Bags,17,63.79,1084.43
+83,2023-03-24,North America,Apparel,T-Shirts,19,216.25,4108.75
+84,2023-03-25,Latin America,Apparel,Training Shoes,4,209.46,837.84
+85,2023-03-26,India,Equipment,Basketball Shoes,10,93.61,936.1
+86,2023-03-27,North America,Equipment,Bags,19,243.31,4622.89
+87,2023-03-28,Asia-Pacific,Apparel,Shorts,8,38.26,306.08
+88,2023-03-29,Asia-Pacific,Apparel,Basketball Shoes,1,52.5,52.5
+89,2023-03-30,India,Footwear,Shorts,10,197.36,1973.6
+90,2023-03-31,Asia-Pacific,Equipment,Running Shoes,8,79.57,636.56
+91,2023-04-01,India,Apparel,Shorts,5,71.94,359.7
+92,2023-04-02,Latin America,Equipment,Jackets,14,30.04,420.56
+93,2023-04-03,Latin America,Equipment,Training Shoes,9,99.03,891.27
+94,2023-04-04,North America,Apparel,Running Shoes,7,41.88,293.16
+95,2023-04-05,Latin America,Apparel,Training Shoes,7,168.49,1179.43
+96,2023-04-06,India,Footwear,Bags,13,26.4,343.2
+97,2023-04-07,Europe,Equipment,Basketball Shoes,9,123.24,1109.16
+98,2023-04-08,Asia-Pacific,Equipment,Bags,7,224.25,1569.75
+99,2023-04-09,Latin America,Footwear,Basketball Shoes,13,152.04,1976.52
+100,2023-04-10,Latin America,Equipment,T-Shirts,4,99.17,396.68
+101,2023-04-11,Europe,Apparel,Running Shoes,17,49.38,839.46
+102,2023-04-12,Europe,Footwear,Bags,15,239.72,3595.8
+103,2023-04-13,Asia-Pacific,Apparel,Shorts,18,29.13,524.34
+104,2023-04-14,North America,Footwear,Jackets,1,137.44,137.44
+105,2023-04-15,Latin America,Apparel,Shorts,1,107.93,107.93
+106,2023-04-16,Asia-Pacific,Equipment,Bags,19,197.99,3761.81
+107,2023-04-17,Latin America,Apparel,T-Shirts,12,157.82,1893.84
+108,2023-04-18,North America,Footwear,T-Shirts,17,236.16,4014.72
+109,2023-04-19,Asia-Pacific,Apparel,T-Shirts,19,239.18,4544.42
+110,2023-04-20,India,Footwear,Jackets,4,188.63,754.52
+111,2023-04-21,Asia-Pacific,Equipment,Jackets,6,132.21,793.26
+112,2023-04-22,Latin America,Apparel,Jackets,8,145.13,1161.04
+113,2023-04-23,Europe,Equipment,T-Shirts,12,231.74,2780.88
+114,2023-04-24,Asia-Pacific,Apparel,Running Shoes,7,190.6,1334.2
+115,2023-04-25,Europe,Equipment,T-Shirts,15,193.47,2902.05
+116,2023-04-26,Europe,Equipment,Jackets,11,236.45,2600.95
+117,2023-04-27,Latin America,Equipment,Basketball Shoes,16,108.87,1741.92
+118,2023-04-28,Europe,Equipment,Training Shoes,17,211.82,3600.94
+119,2023-04-29,North America,Equipment,Basketball Shoes,15,194.6,2919.0
+120,2023-04-30,Latin America,Apparel,Basketball Shoes,11,111.33,1224.63
+121,2023-05-01,Europe,Equipment,T-Shirts,3,194.89,584.67
+122,2023-05-02,Latin America,Equipment,Running Shoes,10,49.06,490.6
+123,2023-05-03,India,Footwear,Basketball Shoes,3,29.02,87.06
+124,2023-05-04,Latin America,Footwear,Training Shoes,10,221.63,2216.3
+125,2023-05-05,Europe,Apparel,Basketball Shoes,19,244.86,4652.34
+126,2023-05-06,India,Equipment,Training Shoes,9,122.37,1101.33
+127,2023-05-07,North America,Equipment,Training Shoes,13,112.7,1465.1
+128,2023-05-08,Europe,Footwear,Training Shoes,1,76.02,76.02
+129,2023-05-09,India,Apparel,Bags,10,235.78,2357.8
+130,2023-05-10,Latin America,Equipment,Jackets,3,83.59,250.77
+131,2023-05-11,North America,Apparel,T-Shirts,11,170.36,1873.96
+132,2023-05-12,India,Footwear,Jackets,6,208.51,1251.06
+133,2023-05-13,Europe,Apparel,Basketball Shoes,18,126.91,2284.38
+134,2023-05-14,Latin America,Footwear,Basketball Shoes,15,240.52,3607.8
+135,2023-05-15,Latin America,Footwear,Basketball Shoes,3,107.27,321.81
+136,2023-05-16,Latin America,Footwear,Shorts,16,199.72,3195.52
+137,2023-05-17,Asia-Pacific,Apparel,Shorts,5,73.2,366.0
+138,2023-05-18,Europe,Footwear,Training Shoes,14,133.24,1865.36
+139,2023-05-19,India,Footwear,Training Shoes,16,182.21,2915.36
+140,2023-05-20,India,Apparel,Running Shoes,16,81.89,1310.24
+141,2023-05-21,Asia-Pacific,Apparel,T-Shirts,12,212.48,2549.76
+142,2023-05-22,Latin America,Apparel,Training Shoes,5,236.54,1182.7
+143,2023-05-23,North America,Apparel,Training Shoes,19,90.05,1710.95
+144,2023-05-24,India,Equipment,Basketball Shoes,3,136.19,408.57
+145,2023-05-25,North America,Equipment,Training Shoes,16,28.79,460.64
+146,2023-05-26,Europe,Equipment,Training Shoes,6,115.97,695.82
+147,2023-05-27,North America,Apparel,Running Shoes,10,159.43,1594.3
+148,2023-05-28,Latin America,Apparel,Bags,1,61.42,61.42
+149,2023-05-29,India,Footwear,Shorts,14,244.99,3429.86
+150,2023-05-30,Europe,Apparel,Running Shoes,4,64.48,257.92
+151,2023-05-31,Asia-Pacific,Footwear,Running Shoes,4,138.84,555.36
+152,2023-06-01,North America,Apparel,Bags,8,27.12,216.96
+153,2023-06-02,Asia-Pacific,Apparel,Basketball Shoes,6,92.09,552.54
+154,2023-06-03,North America,Apparel,Training Shoes,7,205.82,1440.74
+155,2023-06-04,Asia-Pacific,Footwear,T-Shirts,17,116.81,1985.77
+156,2023-06-05,Europe,Apparel,T-Shirts,3,217.81,653.43
+157,2023-06-06,Europe,Equipment,Basketball Shoes,12,209.38,2512.56
+158,2023-06-07,India,Apparel,Running Shoes,3,122.68,368.04
+159,2023-06-08,Europe,Equipment,Training Shoes,5,60.07,300.35
+160,2023-06-09,North America,Footwear,Jackets,12,207.17,2486.04
+161,2023-06-10,North America,Footwear,Running Shoes,6,232.2,1393.2
+162,2023-06-11,Europe,Apparel,Bags,11,79.87,878.57
+163,2023-06-12,Europe,Equipment,Shorts,10,41.89,418.9
+164,2023-06-13,Europe,Footwear,Shorts,15,214.99,3224.85
+165,2023-06-14,India,Footwear,Training Shoes,14,161.86,2266.04
+166,2023-06-15,Asia-Pacific,Equipment,Bags,8,83.45,667.6
+167,2023-06-16,North America,Equipment,Running Shoes,4,63.78,255.12
+168,2023-06-17,Asia-Pacific,Footwear,Bags,1,136.82,136.82
+169,2023-06-18,Asia-Pacific,Apparel,Running Shoes,17,233.6,3971.2
+170,2023-06-19,Latin America,Apparel,Jackets,14,62.61,876.54
+171,2023-06-20,Asia-Pacific,Equipment,Training Shoes,4,187.51,750.04
+172,2023-06-21,India,Footwear,Jackets,3,81.94,245.82
+173,2023-06-22,Latin America,Footwear,Bags,13,158.13,2055.69
+174,2023-06-23,North America,Apparel,T-Shirts,19,125.22,2379.18
+175,2023-06-24,Europe,Apparel,Training Shoes,4,152.44,609.76
+176,2023-06-25,Latin America,Apparel,Shorts,8,55.42,443.36
+177,2023-06-26,Europe,Footwear,Shorts,11,219.17,2410.87
+178,2023-06-27,Latin America,Apparel,Running Shoes,5,246.55,1232.75
+179,2023-06-28,India,Equipment,Jackets,11,136.79,1504.69
+180,2023-06-29,Asia-Pacific,Footwear,T-Shirts,6,115.72,694.32
+181,2023-06-30,Latin America,Equipment,Running Shoes,6,202.78,1216.68
+182,2023-07-01,Europe,Apparel,Shorts,4,62.86,251.44
+183,2023-07-02,North America,Apparel,Bags,13,40.82,530.66
+184,2023-07-03,Asia-Pacific,Equipment,Basketball Shoes,4,186.15,744.6
+185,2023-07-04,Latin America,Apparel,Bags,16,147.95,2367.2
+186,2023-07-05,North America,Footwear,Shorts,1,167.18,167.18
+187,2023-07-06,North America,Apparel,Training Shoes,7,31.49,220.43
+188,2023-07-07,Latin America,Footwear,Shorts,2,219.27,438.54
+189,2023-07-08,Europe,Apparel,Basketball Shoes,15,175.19,2627.85
+190,2023-07-09,North America,Equipment,Bags,17,50.22,853.74
+191,2023-07-10,Asia-Pacific,Apparel,Bags,2,173.72,347.44
+192,2023-07-11,North America,Equipment,T-Shirts,4,245.51,982.04
+193,2023-07-12,India,Apparel,T-Shirts,11,82.89,911.79
+194,2023-07-13,North America,Apparel,Shorts,13,237.36,3085.68
+195,2023-07-14,Europe,Footwear,Running Shoes,2,240.96,481.92
+196,2023-07-15,India,Apparel,T-Shirts,11,214.35,2357.85
+197,2023-07-16,Asia-Pacific,Equipment,Bags,5,134.96,674.8
+198,2023-07-17,North America,Equipment,Basketball Shoes,4,125.39,501.56
+199,2023-07-18,North America,Apparel,Shorts,11,106.43,1170.73
+200,2023-07-19,Latin America,Footwear,Shorts,6,201.83,1210.98
+201,2023-07-20,Latin America,Footwear,Bags,16,58.95,943.2
+202,2023-07-21,India,Footwear,Bags,8,144.93,1159.44
+203,2023-07-22,Europe,Equipment,Running Shoes,11,147.98,1627.78
+204,2023-07-23,Asia-Pacific,Footwear,Running Shoes,2,234.52,469.04
+205,2023-07-24,Latin America,Footwear,Jackets,16,229.43,3670.88
+206,2023-07-25,North America,Footwear,Bags,15,133.6,2004.0
+207,2023-07-26,Latin America,Footwear,Running Shoes,4,159.58,638.32
+208,2023-07-27,Asia-Pacific,Equipment,Jackets,18,184.05,3312.9
+209,2023-07-28,Asia-Pacific,Equipment,Shorts,5,147.23,736.15
+210,2023-07-29,North America,Equipment,Bags,1,88.76,88.76
+211,2023-07-30,India,Footwear,Jackets,7,60.79,425.53
+212,2023-07-31,Europe,Equipment,Running Shoes,1,151.63,151.63
+213,2023-08-01,North America,Equipment,Shorts,4,123.29,493.16
+214,2023-08-02,India,Footwear,Shorts,18,85.83,1544.94
+215,2023-08-03,Europe,Apparel,Basketball Shoes,5,102.53,512.65
+216,2023-08-04,Asia-Pacific,Equipment,Training Shoes,7,34.55,241.85
+217,2023-08-05,North America,Apparel,Shorts,11,149.89,1648.79
+218,2023-08-06,Europe,Footwear,Training Shoes,4,42.16,168.64
+219,2023-08-07,India,Equipment,Basketball Shoes,7,48.95,342.65
+220,2023-08-08,India,Apparel,Shorts,3,198.72,596.16
+221,2023-08-09,Latin America,Apparel,Training Shoes,4,49.45,197.8
+222,2023-08-10,India,Footwear,Shorts,8,182.17,1457.36
+223,2023-08-11,Europe,Apparel,Shorts,14,135.15,1892.1
+224,2023-08-12,Latin America,Apparel,T-Shirts,8,79.72,637.76
+225,2023-08-13,India,Apparel,Bags,8,153.45,1227.6
+226,2023-08-14,Latin America,Apparel,Training Shoes,3,142.46,427.38
+227,2023-08-15,North America,Apparel,Shorts,3,229.86,689.58
+228,2023-08-16,Europe,Footwear,T-Shirts,19,242.01,4598.19
+229,2023-08-17,Asia-Pacific,Equipment,T-Shirts,3,129.62,388.86
+230,2023-08-18,Asia-Pacific,Equipment,T-Shirts,14,107.06,1498.84
+231,2023-08-19,North America,Equipment,Running Shoes,13,156.9,2039.7
+232,2023-08-20,Latin America,Apparel,Training Shoes,6,50.26,301.56
+233,2023-08-21,India,Footwear,T-Shirts,3,143.75,431.25
+234,2023-08-22,Europe,Equipment,Bags,13,47.51,617.63
+235,2023-08-23,North America,Equipment,Jackets,1,86.92,86.92
+236,2023-08-24,Latin America,Footwear,Training Shoes,9,195.57,1760.13
+237,2023-08-25,Europe,Apparel,Shorts,9,198.33,1784.97
+238,2023-08-26,North America,Footwear,T-Shirts,18,132.35,2382.3
+239,2023-08-27,Asia-Pacific,Apparel,Basketball Shoes,2,241.86,483.72
+240,2023-08-28,Latin America,Footwear,T-Shirts,15,59.14,887.1
+241,2023-08-29,Latin America,Apparel,Basketball Shoes,9,95.36,858.24
+242,2023-08-30,Latin America,Equipment,Running Shoes,15,158.31,2374.65
+243,2023-08-31,Latin America,Apparel,Basketball Shoes,17,125.32,2130.44
+244,2023-09-01,India,Footwear,Training Shoes,16,170.87,2733.92
+245,2023-09-02,Europe,Footwear,Bags,14,44.93,629.02
+246,2023-09-03,Asia-Pacific,Apparel,Running Shoes,14,186.82,2615.48
+247,2023-09-04,North America,Equipment,Running Shoes,19,61.65,1171.35
+248,2023-09-05,Asia-Pacific,Apparel,Bags,9,85.83,772.47
+249,2023-09-06,Europe,Equipment,Shorts,11,65.41,719.51
+250,2023-09-07,Asia-Pacific,Equipment,Training Shoes,3,187.09,561.27
+251,2023-09-08,North America,Equipment,Training Shoes,18,33.94,610.92
+252,2023-09-09,Asia-Pacific,Footwear,T-Shirts,1,244.84,244.84
+253,2023-09-10,Latin America,Equipment,T-Shirts,5,109.04,545.2
+254,2023-09-11,Asia-Pacific,Equipment,Jackets,9,77.35,696.15
+255,2023-09-12,Latin America,Equipment,Basketball Shoes,15,98.41,1476.15
+256,2023-09-13,North America,Footwear,Jackets,12,136.53,1638.36
+257,2023-09-14,India,Footwear,Basketball Shoes,7,76.78,537.46
+258,2023-09-15,India,Apparel,Bags,11,196.4,2160.4
+259,2023-09-16,North America,Equipment,Running Shoes,19,194.95,3704.05
+260,2023-09-17,Latin America,Footwear,Running Shoes,15,166.55,2498.25
+261,2023-09-18,North America,Footwear,Shorts,17,228.87,3890.79
+262,2023-09-19,Europe,Equipment,T-Shirts,2,187.5,375.0
+263,2023-09-20,Latin America,Footwear,T-Shirts,18,61.09,1099.62
+264,2023-09-21,Asia-Pacific,Footwear,Basketball Shoes,10,84.5,845.0
+265,2023-09-22,Europe,Footwear,Bags,9,132.22,1189.98
+266,2023-09-23,Europe,Equipment,Training Shoes,9,94.6,851.4
+267,2023-09-24,India,Equipment,Jackets,13,114.16,1484.08
+268,2023-09-25,Latin America,Apparel,T-Shirts,5,131.77,658.85
+269,2023-09-26,North America,Footwear,Jackets,2,201.34,402.68
+270,2023-09-27,India,Equipment,Jackets,3,147.35,442.05
+271,2023-09-28,Latin America,Equipment,T-Shirts,6,213.49,1280.94
+272,2023-09-29,North America,Apparel,Jackets,3,161.8,485.4
+273,2023-09-30,Latin America,Equipment,Training Shoes,7,26.68,186.76
+274,2023-10-01,Europe,Equipment,Running Shoes,11,247.23,2719.53
+275,2023-10-02,Asia-Pacific,Footwear,Running Shoes,7,58.04,406.28
+276,2023-10-03,India,Footwear,Running Shoes,15,114.01,1710.15
+277,2023-10-04,India,Equipment,Shorts,11,29.36,322.96
+278,2023-10-05,Latin America,Apparel,Shorts,14,143.12,2003.68
+279,2023-10-06,North America,Equipment,Running Shoes,15,177.49,2662.35
+280,2023-10-07,India,Apparel,Training Shoes,11,89.77,987.47
+281,2023-10-08,India,Apparel,T-Shirts,9,233.9,2105.1
+282,2023-10-09,Asia-Pacific,Equipment,Jackets,4,58.74,234.96
+283,2023-10-10,India,Equipment,Training Shoes,11,238.43,2622.73
+284,2023-10-11,Europe,Equipment,Training Shoes,9,201.9,1817.1
+285,2023-10-12,Europe,Equipment,Bags,13,59.24,770.12
+286,2023-10-13,North America,Footwear,T-Shirts,14,48.17,674.38
+287,2023-10-14,Latin America,Footwear,T-Shirts,19,39.88,757.72
+288,2023-10-15,Asia-Pacific,Footwear,Shorts,16,155.05,2480.8
+289,2023-10-16,Asia-Pacific,Apparel,Running Shoes,12,81.45,977.4
+290,2023-10-17,India,Equipment,Shorts,11,243.51,2678.61
+291,2023-10-18,India,Equipment,Training Shoes,7,50.96,356.72
+292,2023-10-19,Europe,Footwear,Shorts,19,206.73,3927.87
+293,2023-10-20,Asia-Pacific,Equipment,Shorts,3,109.5,328.5
+294,2023-10-21,North America,Apparel,T-Shirts,18,28.25,508.5
+295,2023-10-22,North America,Equipment,Shorts,4,190.61,762.44
+296,2023-10-23,North America,Apparel,Running Shoes,10,157.18,1571.8
+297,2023-10-24,Latin America,Equipment,Basketball Shoes,4,76.67,306.68
+298,2023-10-25,Europe,Equipment,Running Shoes,5,104.99,524.95
+299,2023-10-26,Asia-Pacific,Apparel,Jackets,5,58.76,293.8
+300,2023-10-27,India,Footwear,Running Shoes,10,55.3,553.0
+301,2023-10-28,Latin America,Apparel,Jackets,18,153.13,2756.34
+302,2023-10-29,North America,Apparel,Jackets,12,146.38,1756.56
+303,2023-10-30,Asia-Pacific,Apparel,Training Shoes,10,70.73,707.3
+304,2023-10-31,Europe,Footwear,Jackets,19,91.91,1746.29
+305,2023-11-01,India,Equipment,Basketball Shoes,15,249.06,3735.9
+306,2023-11-02,Europe,Footwear,Bags,16,104.44,1671.04
+307,2023-11-03,North America,Equipment,Bags,8,134.68,1077.44
+308,2023-11-04,Europe,Apparel,T-Shirts,13,60.86,791.18
+309,2023-11-05,India,Apparel,Shorts,13,30.53,396.89
+310,2023-11-06,India,Apparel,Bags,2,162.73,325.46
+311,2023-11-07,India,Footwear,T-Shirts,5,79.26,396.3
+312,2023-11-08,Asia-Pacific,Apparel,Shorts,15,192.21,2883.15
+313,2023-11-09,Latin America,Apparel,Basketball Shoes,15,77.05,1155.75
+314,2023-11-10,Asia-Pacific,Apparel,Bags,18,107.98,1943.64
+315,2023-11-11,North America,Equipment,Basketball Shoes,9,170.68,1536.12
+316,2023-11-12,Asia-Pacific,Apparel,Shorts,15,180.58,2708.7
+317,2023-11-13,Latin America,Equipment,Running Shoes,12,102.38,1228.56
+318,2023-11-14,Europe,Apparel,Basketball Shoes,9,188.58,1697.22
+319,2023-11-15,North America,Apparel,Shorts,1,151.59,151.59
+320,2023-11-16,Asia-Pacific,Footwear,Jackets,14,208.39,2917.46
+321,2023-11-17,North America,Footwear,Bags,11,195.41,2149.51
+322,2023-11-18,Asia-Pacific,Apparel,Basketball Shoes,18,209.86,3777.48
+323,2023-11-19,Asia-Pacific,Equipment,Bags,12,84.49,1013.88
+324,2023-11-20,Latin America,Equipment,Shorts,16,43.29,692.64
+325,2023-11-21,India,Equipment,Shorts,15,25.63,384.45
+326,2023-11-22,Europe,Apparel,Training Shoes,11,99.33,1092.63
+327,2023-11-23,Latin America,Equipment,Shorts,15,118.13,1771.95
+328,2023-11-24,Latin America,Footwear,Basketball Shoes,3,84.71,254.13
+329,2023-11-25,Europe,Apparel,T-Shirts,2,61.03,122.06
+330,2023-11-26,Europe,Equipment,Basketball Shoes,19,121.13,2301.47
+331,2023-11-27,Europe,Equipment,Running Shoes,16,93.75,1500.0
+332,2023-11-28,Latin America,Footwear,Basketball Shoes,14,32.2,450.8
+333,2023-11-29,North America,Footwear,Bags,17,213.32,3626.44
+334,2023-11-30,Latin America,Footwear,Jackets,14,141.94,1987.16
+335,2023-12-01,Asia-Pacific,Apparel,Jackets,17,64.4,1094.8
+336,2023-12-02,Latin America,Equipment,Jackets,16,99.26,1588.16
+337,2023-12-03,India,Equipment,Basketball Shoes,13,154.61,2009.93
+338,2023-12-04,India,Apparel,Basketball Shoes,13,46.81,608.53
+339,2023-12-05,Asia-Pacific,Footwear,Bags,4,141.9,567.6
+340,2023-12-06,Latin America,Footwear,Training Shoes,15,190.73,2860.95
+341,2023-12-07,India,Apparel,T-Shirts,13,61.92,804.96
+342,2023-12-08,Asia-Pacific,Apparel,Running Shoes,12,139.51,1674.12
+343,2023-12-09,Latin America,Equipment,Shorts,19,226.67,4306.73
+344,2023-12-10,Europe,Apparel,Running Shoes,7,183.31,1283.17
+345,2023-12-11,North America,Footwear,Shorts,9,125.6,1130.4
+346,2023-12-12,India,Equipment,Basketball Shoes,4,30.7,122.8
+347,2023-12-13,Asia-Pacific,Apparel,Training Shoes,9,234.48,2110.32
+348,2023-12-14,Asia-Pacific,Equipment,Training Shoes,1,245.89,245.89
+349,2023-12-15,North America,Equipment,Shorts,9,201.39,1812.51
+350,2023-12-16,Europe,Apparel,Training Shoes,4,76.59,306.36
+351,2023-12-17,India,Apparel,Basketball Shoes,17,156.1,2653.7
+352,2023-12-18,Asia-Pacific,Equipment,Running Shoes,2,205.88,411.76
+353,2023-12-19,Asia-Pacific,Apparel,Training Shoes,5,144.55,722.75
+354,2023-12-20,Asia-Pacific,Apparel,Shorts,9,243.27,2189.43
+355,2023-12-21,Latin America,Apparel,Training Shoes,14,159.21,2228.94
+356,2023-12-22,India,Equipment,Basketball Shoes,13,26.32,342.16
+357,2023-12-23,Latin America,Footwear,Running Shoes,2,91.88,183.76
+358,2023-12-24,North America,Footwear,T-Shirts,6,249.04,1494.24
+359,2023-12-25,Asia-Pacific,Apparel,Shorts,14,245.69,3439.66
+360,2023-12-26,Asia-Pacific,Footwear,T-Shirts,15,232.65,3489.75
+361,2023-12-27,North America,Equipment,Jackets,1,71.26,71.26
+362,2023-12-28,Asia-Pacific,Equipment,Running Shoes,1,82.18,82.18
+363,2023-12-29,North America,Apparel,Training Shoes,13,161.17,2095.21
+364,2023-12-30,Asia-Pacific,Equipment,Shorts,4,32.81,131.24
+365,2023-12-31,North America,Apparel,Basketball Shoes,16,225.49,3607.84
+366,2024-01-01,Latin America,Equipment,Jackets,10,135.21,1352.1
+367,2024-01-02,North America,Apparel,T-Shirts,6,189.47,1136.82
+368,2024-01-03,Latin America,Footwear,Running Shoes,18,163.03,2934.54
+369,2024-01-04,Europe,Apparel,Basketball Shoes,1,106.2,106.2
+370,2024-01-05,Latin America,Apparel,Training Shoes,12,228.16,2737.92
+371,2024-01-06,Latin America,Footwear,Basketball Shoes,6,80.0,480.0
+372,2024-01-07,Europe,Footwear,Training Shoes,5,140.26,701.3
+373,2024-01-08,North America,Footwear,Jackets,1,119.66,119.66
+374,2024-01-09,Europe,Footwear,T-Shirts,8,186.65,1493.2
+375,2024-01-10,North America,Apparel,Training Shoes,8,184.15,1473.2
+376,2024-01-11,Asia-Pacific,Equipment,Jackets,14,126.52,1771.28
+377,2024-01-12,Asia-Pacific,Apparel,Basketball Shoes,2,99.36,198.72
+378,2024-01-13,North America,Equipment,T-Shirts,15,71.93,1078.95
+379,2024-01-14,Asia-Pacific,Equipment,Bags,7,35.53,248.71
+380,2024-01-15,Latin America,Apparel,Running Shoes,1,124.02,124.02
+381,2024-01-16,Latin America,Equipment,Shorts,1,25.62,25.62
+382,2024-01-17,Europe,Footwear,Training Shoes,3,104.44,313.32
+383,2024-01-18,Asia-Pacific,Footwear,Running Shoes,1,242.92,242.92
+384,2024-01-19,North America,Equipment,Basketball Shoes,3,171.81,515.43
+385,2024-01-20,North America,Equipment,T-Shirts,16,118.1,1889.6
+386,2024-01-21,Asia-Pacific,Equipment,Basketball Shoes,6,237.5,1425.0
+387,2024-01-22,India,Footwear,T-Shirts,19,248.91,4729.29
+388,2024-01-23,Latin America,Footwear,Shorts,3,199.74,599.22
+389,2024-01-24,Europe,Footwear,Training Shoes,4,93.45,373.8
+390,2024-01-25,India,Apparel,Training Shoes,2,224.32,448.64
+391,2024-01-26,North America,Equipment,Jackets,17,202.95,3450.15
+392,2024-01-27,Latin America,Equipment,Training Shoes,4,171.1,684.4
+393,2024-01-28,Latin America,Equipment,Bags,2,130.48,260.96
+394,2024-01-29,India,Footwear,Running Shoes,3,85.63,256.89
+395,2024-01-30,India,Footwear,Shorts,4,92.0,368.0
+396,2024-01-31,North America,Apparel,Basketball Shoes,4,141.56,566.24
+397,2024-02-01,India,Equipment,Bags,13,138.55,1801.15
+398,2024-02-02,Latin America,Footwear,Bags,12,126.81,1521.72
+399,2024-02-03,Latin America,Equipment,Bags,7,203.99,1427.93
+400,2024-02-04,Asia-Pacific,Equipment,Shorts,10,81.12,811.2
+401,2024-02-05,Europe,Equipment,Shorts,2,52.74,105.48
+402,2024-02-06,Asia-Pacific,Apparel,Shorts,12,63.57,762.84
+403,2024-02-07,Asia-Pacific,Apparel,Shorts,4,164.49,657.96
+404,2024-02-08,North America,Footwear,Shorts,4,32.19,128.76
+405,2024-02-09,Asia-Pacific,Footwear,Shorts,5,95.14,475.7
+406,2024-02-10,Europe,Equipment,T-Shirts,8,63.38,507.04
+407,2024-02-11,North America,Equipment,T-Shirts,14,31.05,434.7
+408,2024-02-12,North America,Footwear,Jackets,2,237.26,474.52
+409,2024-02-13,Latin America,Footwear,T-Shirts,5,106.89,534.45
+410,2024-02-14,India,Equipment,T-Shirts,15,227.72,3415.8
+411,2024-02-15,North America,Equipment,Jackets,5,133.35,666.75
+412,2024-02-16,Latin America,Apparel,Training Shoes,3,243.27,729.81
+413,2024-02-17,Latin America,Apparel,Training Shoes,12,56.3,675.6
+414,2024-02-18,Latin America,Apparel,Running Shoes,9,108.51,976.59
+415,2024-02-19,North America,Equipment,Bags,17,80.93,1375.81
+416,2024-02-20,North America,Apparel,Jackets,13,193.52,2515.76
+417,2024-02-21,Asia-Pacific,Equipment,Training Shoes,15,79.69,1195.35
+418,2024-02-22,India,Footwear,Basketball Shoes,14,150.92,2112.88
+419,2024-02-23,North America,Footwear,Jackets,19,67.53,1283.07
+420,2024-02-24,Latin America,Equipment,Basketball Shoes,10,40.02,400.2
+421,2024-02-25,India,Equipment,Basketball Shoes,15,225.16,3377.4
+422,2024-02-26,Asia-Pacific,Apparel,Bags,19,198.61,3773.59
+423,2024-02-27,Latin America,Footwear,Training Shoes,14,203.62,2850.68
+424,2024-02-28,Europe,Apparel,Jackets,2,249.35,498.7
+425,2024-02-29,Europe,Equipment,Basketball Shoes,14,216.42,3029.88
+426,2024-03-01,Latin America,Equipment,Basketball Shoes,13,40.71,529.23
+427,2024-03-02,Europe,Apparel,Shorts,5,88.61,443.05
+428,2024-03-03,Europe,Equipment,Bags,12,118.01,1416.12
+429,2024-03-04,Asia-Pacific,Footwear,Shorts,10,238.5,2385.0
+430,2024-03-05,India,Footwear,Shorts,16,29.67,474.72
+431,2024-03-06,North America,Equipment,Bags,5,191.19,955.95
+432,2024-03-07,Europe,Equipment,Basketball Shoes,19,39.8,756.2
+433,2024-03-08,Latin America,Apparel,Jackets,4,63.81,255.24
+434,2024-03-09,North America,Footwear,Basketball Shoes,6,80.31,481.86
+435,2024-03-10,Asia-Pacific,Apparel,Basketball Shoes,17,125.07,2126.19
+436,2024-03-11,Asia-Pacific,Footwear,Basketball Shoes,2,228.47,456.94
+437,2024-03-12,India,Apparel,Basketball Shoes,6,218.09,1308.54
+438,2024-03-13,Europe,Footwear,Shorts,4,96.18,384.72
+439,2024-03-14,North America,Footwear,Training Shoes,11,246.54,2711.94
+440,2024-03-15,North America,Equipment,Basketball Shoes,4,38.77,155.08
+441,2024-03-16,Latin America,Apparel,Jackets,7,38.27,267.89
+442,2024-03-17,North America,Apparel,Bags,16,133.23,2131.68
+443,2024-03-18,Asia-Pacific,Apparel,Training Shoes,9,101.57,914.13
+444,2024-03-19,Europe,Footwear,T-Shirts,17,220.69,3751.73
+445,2024-03-20,Europe,Footwear,Shorts,7,30.72,215.04
+446,2024-03-21,Asia-Pacific,Apparel,Basketball Shoes,8,223.78,1790.24
+447,2024-03-22,Asia-Pacific,Equipment,Bags,4,88.58,354.32
+448,2024-03-23,North America,Footwear,Jackets,4,202.79,811.16
+449,2024-03-24,Latin America,Apparel,Shorts,6,28.67,172.02
+450,2024-03-25,Europe,Equipment,Shorts,6,230.84,1385.04
+451,2024-03-26,Asia-Pacific,Equipment,T-Shirts,11,211.05,2321.55
+452,2024-03-27,Asia-Pacific,Apparel,Shorts,12,156.23,1874.76
+453,2024-03-28,Latin America,Equipment,Training Shoes,15,212.25,3183.75
+454,2024-03-29,Latin America,Apparel,Shorts,1,205.4,205.4
+455,2024-03-30,Latin America,Equipment,T-Shirts,6,217.36,1304.16
+456,2024-03-31,India,Footwear,Basketball Shoes,7,178.81,1251.67
+457,2024-04-01,Europe,Footwear,T-Shirts,5,243.25,1216.25
+458,2024-04-02,Europe,Apparel,Training Shoes,7,154.93,1084.51
+459,2024-04-03,North America,Footwear,Jackets,9,181.98,1637.82
+460,2024-04-04,Europe,Equipment,Shorts,6,131.99,791.94
+461,2024-04-05,North America,Footwear,T-Shirts,16,247.27,3956.32
+462,2024-04-06,Asia-Pacific,Apparel,Jackets,6,30.03,180.18
+463,2024-04-07,Latin America,Equipment,Training Shoes,5,190.92,954.6
+464,2024-04-08,Asia-Pacific,Footwear,Shorts,3,79.54,238.62
+465,2024-04-09,India,Apparel,Bags,18,176.48,3176.64
+466,2024-04-10,Europe,Apparel,Jackets,14,64.67,905.38
+467,2024-04-11,Latin America,Apparel,Training Shoes,17,102.03,1734.51
+468,2024-04-12,North America,Footwear,Basketball Shoes,6,179.53,1077.18
+469,2024-04-13,India,Apparel,Bags,4,116.99,467.96
+470,2024-04-14,India,Apparel,Jackets,17,174.49,2966.33
+471,2024-04-15,India,Footwear,Shorts,8,170.36,1362.88
+472,2024-04-16,Latin America,Equipment,Bags,12,50.71,608.52
+473,2024-04-17,Europe,Footwear,Shorts,1,181.1,181.1
+474,2024-04-18,Europe,Apparel,Jackets,14,87.7,1227.8
+475,2024-04-19,Asia-Pacific,Footwear,Shorts,2,120.57,241.14
+476,2024-04-20,Latin America,Footwear,Running Shoes,9,140.49,1264.41
+477,2024-04-21,Europe,Footwear,Bags,1,110.38,110.38
+478,2024-04-22,Europe,Apparel,Jackets,1,84.38,84.38
+479,2024-04-23,North America,Equipment,Jackets,15,61.51,922.65
+480,2024-04-24,India,Footwear,T-Shirts,2,166.01,332.02
+481,2024-04-25,North America,Apparel,Training Shoes,17,194.92,3313.64
+482,2024-04-26,India,Apparel,T-Shirts,8,68.02,544.16
+483,2024-04-27,Asia-Pacific,Equipment,Basketball Shoes,14,160.77,2250.78
+484,2024-04-28,Asia-Pacific,Equipment,Training Shoes,15,54.55,818.25
+485,2024-04-29,Asia-Pacific,Apparel,T-Shirts,3,169.93,509.79
+486,2024-04-30,India,Apparel,Jackets,17,92.15,1566.55
+487,2024-05-01,Europe,Equipment,Bags,17,105.66,1796.22
+488,2024-05-02,Latin America,Footwear,T-Shirts,16,175.98,2815.68
+489,2024-05-03,Europe,Equipment,Shorts,14,129.39,1811.46
+490,2024-05-04,Latin America,Equipment,Shorts,18,126.14,2270.52
+491,2024-05-05,Europe,Apparel,Bags,16,93.27,1492.32
+492,2024-05-06,India,Apparel,T-Shirts,15,207.96,3119.4
+493,2024-05-07,Asia-Pacific,Equipment,T-Shirts,19,93.34,1773.46
+494,2024-05-08,India,Apparel,T-Shirts,6,170.9,1025.4
+495,2024-05-09,North America,Apparel,Training Shoes,14,38.38,537.32
+496,2024-05-10,North America,Footwear,Running Shoes,9,229.85,2068.65
+497,2024-05-11,Asia-Pacific,Equipment,Training Shoes,10,242.41,2424.1
+498,2024-05-12,Latin America,Equipment,Basketball Shoes,3,66.23,198.69
+499,2024-05-13,North America,Equipment,Jackets,9,124.29,1118.61
+500,2024-05-14,Latin America,Equipment,Bags,8,49.24,393.92
+501,2024-05-15,Latin America,Apparel,Bags,8,118.12,944.96
+502,2024-05-16,Latin America,Equipment,Running Shoes,12,220.33,2643.96
+503,2024-05-17,North America,Footwear,T-Shirts,11,158.56,1744.16
+504,2024-05-18,Latin America,Apparel,Running Shoes,8,55.93,447.44
+505,2024-05-19,Asia-Pacific,Equipment,Bags,18,243.14,4376.52
+506,2024-05-20,North America,Apparel,Bags,18,150.42,2707.56
+507,2024-05-21,India,Equipment,Shorts,17,41.73,709.41
+508,2024-05-22,India,Apparel,Shorts,14,107.26,1501.64
+509,2024-05-23,Europe,Equipment,Running Shoes,14,57.8,809.2
+510,2024-05-24,North America,Footwear,Basketball Shoes,1,223.71,223.71
+511,2024-05-25,North America,Footwear,Bags,13,113.1,1470.3
+512,2024-05-26,India,Equipment,Running Shoes,7,137.43,962.01
+513,2024-05-27,Latin America,Equipment,Training Shoes,16,214.07,3425.12
+514,2024-05-28,India,Footwear,T-Shirts,1,152.73,152.73
+515,2024-05-29,North America,Footwear,Jackets,9,35.92,323.28
+516,2024-05-30,Asia-Pacific,Apparel,Running Shoes,10,41.75,417.5
+517,2024-05-31,Europe,Footwear,Jackets,19,64.06,1217.14
+518,2024-06-01,India,Apparel,Shorts,15,176.79,2651.85
+519,2024-06-02,Asia-Pacific,Footwear,Bags,14,163.9,2294.6
+520,2024-06-03,India,Footwear,Running Shoes,8,105.48,843.84
+521,2024-06-04,Europe,Equipment,Shorts,18,95.45,1718.1
+522,2024-06-05,Asia-Pacific,Apparel,Shorts,4,43.04,172.16
+523,2024-06-06,Latin America,Footwear,Running Shoes,2,40.67,81.34
+524,2024-06-07,Latin America,Apparel,Jackets,3,167.89,503.67
+525,2024-06-08,Asia-Pacific,Apparel,Training Shoes,15,203.91,3058.65
+526,2024-06-09,Europe,Equipment,Jackets,3,138.02,414.06
+527,2024-06-10,Europe,Apparel,Shorts,6,179.97,1079.82
+528,2024-06-11,Latin America,Apparel,Running Shoes,7,125.69,879.83
+529,2024-06-12,Europe,Equipment,T-Shirts,2,37.23,74.46
+530,2024-06-13,Asia-Pacific,Footwear,Basketball Shoes,4,25.52,102.08
+531,2024-06-14,Europe,Footwear,T-Shirts,2,205.31,410.62
+532,2024-06-15,Europe,Apparel,Jackets,16,220.1,3521.6
+533,2024-06-16,Asia-Pacific,Equipment,Jackets,12,246.34,2956.08
+534,2024-06-17,North America,Footwear,Bags,17,94.19,1601.23
+535,2024-06-18,North America,Equipment,Training Shoes,19,190.08,3611.52
+536,2024-06-19,India,Equipment,Shorts,19,191.54,3639.26
+537,2024-06-20,Asia-Pacific,Equipment,Training Shoes,10,174.75,1747.5
+538,2024-06-21,Europe,Equipment,T-Shirts,3,209.65,628.95
+539,2024-06-22,North America,Apparel,T-Shirts,11,239.99,2639.89
+540,2024-06-23,Latin America,Equipment,T-Shirts,5,70.38,351.9
+541,2024-06-24,India,Equipment,Shorts,7,188.86,1322.02
+542,2024-06-25,Latin America,Apparel,Running Shoes,10,118.0,1180.0
+543,2024-06-26,Latin America,Apparel,T-Shirts,4,211.14,844.56
+544,2024-06-27,Latin America,Footwear,Training Shoes,13,230.3,2993.9
+545,2024-06-28,North America,Apparel,Shorts,3,236.81,710.43
+546,2024-06-29,Asia-Pacific,Apparel,Bags,7,195.27,1366.89
+547,2024-06-30,Europe,Apparel,Shorts,6,231.9,1391.4
+548,2024-07-01,India,Equipment,Running Shoes,9,51.56,464.04
+549,2024-07-02,Latin America,Footwear,Training Shoes,11,46.13,507.43
+550,2024-07-03,Asia-Pacific,Apparel,Shorts,2,118.79,237.58
+551,2024-07-04,North America,Equipment,Jackets,3,187.04,561.12
+552,2024-07-05,India,Equipment,Shorts,18,206.57,3718.26
+553,2024-07-06,North America,Apparel,Training Shoes,2,213.33,426.66
+554,2024-07-07,India,Footwear,Basketball Shoes,3,54.6,163.8
+555,2024-07-08,India,Footwear,Shorts,11,178.91,1968.01
+556,2024-07-09,North America,Apparel,Running Shoes,18,149.68,2694.24
+557,2024-07-10,North America,Equipment,Running Shoes,13,62.6,813.8
+558,2024-07-11,North America,Footwear,T-Shirts,1,131.75,131.75
+559,2024-07-12,Latin America,Footwear,Training Shoes,5,199.41,997.05
+560,2024-07-13,Asia-Pacific,Apparel,Running Shoes,14,62.17,870.38
+561,2024-07-14,Latin America,Apparel,Shorts,14,226.37,3169.18
+562,2024-07-15,Asia-Pacific,Footwear,Running Shoes,15,61.96,929.4
+563,2024-07-16,North America,Equipment,Running Shoes,19,43.39,824.41
+564,2024-07-17,North America,Footwear,Shorts,7,106.75,747.25
+565,2024-07-18,India,Apparel,Bags,19,200.12,3802.28
+566,2024-07-19,India,Footwear,Bags,7,199.4,1395.8
+567,2024-07-20,Asia-Pacific,Equipment,Jackets,18,219.61,3952.98
+568,2024-07-21,Latin America,Apparel,Bags,10,65.41,654.1
+569,2024-07-22,India,Footwear,Bags,19,74.04,1406.76
+570,2024-07-23,Latin America,Apparel,Running Shoes,2,71.33,142.66
+571,2024-07-24,North America,Footwear,Shorts,13,71.63,931.19
+572,2024-07-25,Asia-Pacific,Apparel,Bags,6,120.08,720.48
+573,2024-07-26,India,Footwear,Running Shoes,12,248.88,2986.56
+574,2024-07-27,North America,Equipment,Training Shoes,9,177.4,1596.6
+575,2024-07-28,Europe,Equipment,Jackets,16,101.5,1624.0
+576,2024-07-29,India,Equipment,Bags,19,241.0,4579.0
+577,2024-07-30,North America,Apparel,Training Shoes,7,151.53,1060.71
+578,2024-07-31,Europe,Equipment,T-Shirts,6,33.73,202.38
+579,2024-08-01,Asia-Pacific,Footwear,Basketball Shoes,14,41.52,581.28
+580,2024-08-02,Asia-Pacific,Apparel,Training Shoes,11,149.65,1646.15
+581,2024-08-03,India,Apparel,Training Shoes,11,68.7,755.7
+582,2024-08-04,Latin America,Apparel,Basketball Shoes,15,85.55,1283.25
+583,2024-08-05,Latin America,Footwear,Training Shoes,16,108.86,1741.76
+584,2024-08-06,North America,Footwear,Bags,7,159.22,1114.54
+585,2024-08-07,Asia-Pacific,Footwear,Training Shoes,8,234.52,1876.16
+586,2024-08-08,Latin America,Apparel,Running Shoes,18,44.84,807.12
+587,2024-08-09,India,Equipment,Running Shoes,3,232.68,698.04
+588,2024-08-10,Asia-Pacific,Equipment,T-Shirts,10,121.8,1218.0
+589,2024-08-11,Latin America,Equipment,Bags,4,94.94,379.76
+590,2024-08-12,Europe,Equipment,Bags,11,89.94,989.34
+591,2024-08-13,India,Equipment,Shorts,13,105.26,1368.38
+592,2024-08-14,North America,Footwear,T-Shirts,16,119.57,1913.12
+593,2024-08-15,Asia-Pacific,Footwear,Training Shoes,17,114.17,1940.89
+594,2024-08-16,Europe,Apparel,Jackets,13,215.49,2801.37
+595,2024-08-17,Europe,Equipment,Running Shoes,15,101.28,1519.2
+596,2024-08-18,Latin America,Footwear,T-Shirts,5,78.93,394.65
+597,2024-08-19,Asia-Pacific,Footwear,Bags,4,234.66,938.64
+598,2024-08-20,India,Equipment,Bags,19,200.18,3803.42
+599,2024-08-21,Latin America,Apparel,Basketball Shoes,17,31.36,533.12
+600,2024-08-22,India,Equipment,Running Shoes,7,150.0,1050.0
+601,2024-08-23,North America,Equipment,Training Shoes,8,166.0,1328.0
+602,2024-08-24,Latin America,Footwear,Basketball Shoes,14,58.33,816.62
+603,2024-08-25,India,Apparel,Running Shoes,5,99.88,499.4
+604,2024-08-26,North America,Apparel,T-Shirts,7,65.69,459.83
+605,2024-08-27,Europe,Apparel,Training Shoes,7,44.19,309.33
+606,2024-08-28,Latin America,Apparel,Jackets,5,140.27,701.35
+607,2024-08-29,Asia-Pacific,Equipment,Basketball Shoes,19,41.54,789.26
+608,2024-08-30,India,Apparel,Bags,5,128.72,643.6
+609,2024-08-31,North America,Equipment,T-Shirts,16,132.6,2121.6
+610,2024-09-01,India,Apparel,Training Shoes,1,159.29,159.29
+611,2024-09-02,North America,Footwear,T-Shirts,13,217.29,2824.77
+612,2024-09-03,Asia-Pacific,Equipment,Basketball Shoes,9,30.99,278.91
+613,2024-09-04,Europe,Equipment,Jackets,6,65.1,390.6
+614,2024-09-05,North America,Apparel,Basketball Shoes,19,175.25,3329.75
+615,2024-09-06,Europe,Footwear,Basketball Shoes,9,121.27,1091.43
+616,2024-09-07,Europe,Equipment,Training Shoes,19,65.44,1243.36
+617,2024-09-08,India,Apparel,Running Shoes,7,67.69,473.83
+618,2024-09-09,India,Footwear,Basketball Shoes,13,67.17,873.21
+619,2024-09-10,Latin America,Footwear,Running Shoes,1,232.17,232.17
+620,2024-09-11,Europe,Footwear,Shorts,14,110.69,1549.66
+621,2024-09-12,Europe,Footwear,Training Shoes,7,154.54,1081.78
+622,2024-09-13,Asia-Pacific,Apparel,Jackets,9,153.59,1382.31
+623,2024-09-14,Europe,Apparel,Jackets,10,194.9,1949.0
+624,2024-09-15,India,Equipment,Training Shoes,13,133.44,1734.72
+625,2024-09-16,Europe,Apparel,T-Shirts,15,111.85,1677.75
+626,2024-09-17,Europe,Apparel,Jackets,4,185.55,742.2
+627,2024-09-18,Europe,Equipment,Jackets,5,98.13,490.65
+628,2024-09-19,Asia-Pacific,Footwear,T-Shirts,10,47.09,470.9
+629,2024-09-20,Europe,Apparel,Shorts,4,249.44,997.76
+630,2024-09-21,India,Apparel,Jackets,11,234.91,2584.01
+631,2024-09-22,Asia-Pacific,Equipment,Shorts,6,127.78,766.68
+632,2024-09-23,North America,Equipment,Training Shoes,11,187.62,2063.82
+633,2024-09-24,Europe,Equipment,Training Shoes,5,208.85,1044.25
+634,2024-09-25,North America,Equipment,Bags,6,110.69,664.14
+635,2024-09-26,North America,Equipment,Bags,4,65.75,263.0
+636,2024-09-27,Europe,Apparel,Bags,5,60.88,304.4
+637,2024-09-28,Latin America,Apparel,Shorts,5,222.47,1112.35
+638,2024-09-29,Latin America,Apparel,T-Shirts,2,247.76,495.52
+639,2024-09-30,Latin America,Apparel,Running Shoes,18,125.98,2267.64
+640,2024-10-01,Asia-Pacific,Equipment,T-Shirts,7,245.34,1717.38
+641,2024-10-02,Latin America,Footwear,Training Shoes,10,131.57,1315.7
+642,2024-10-03,Europe,Apparel,Jackets,17,126.86,2156.62
+643,2024-10-04,India,Footwear,T-Shirts,17,85.42,1452.14
+644,2024-10-05,North America,Equipment,Bags,10,152.68,1526.8
+645,2024-10-06,North America,Footwear,Basketball Shoes,14,112.88,1580.32
+646,2024-10-07,Europe,Apparel,Running Shoes,12,220.1,2641.2
+647,2024-10-08,Asia-Pacific,Apparel,Running Shoes,10,239.13,2391.3
+648,2024-10-09,North America,Apparel,Jackets,1,185.52,185.52
+649,2024-10-10,Europe,Footwear,Bags,1,123.48,123.48
+650,2024-10-11,North America,Equipment,Jackets,4,107.35,429.4
+651,2024-10-12,India,Footwear,Bags,16,243.57,3897.12
+652,2024-10-13,India,Apparel,Shorts,18,177.97,3203.46
+653,2024-10-14,Asia-Pacific,Apparel,T-Shirts,15,166.02,2490.3
+654,2024-10-15,India,Footwear,Jackets,12,25.13,301.56
+655,2024-10-16,Asia-Pacific,Footwear,Training Shoes,9,246.75,2220.75
+656,2024-10-17,Latin America,Apparel,Jackets,1,101.02,101.02
+657,2024-10-18,Asia-Pacific,Apparel,Running Shoes,18,138.05,2484.9
+658,2024-10-19,Europe,Apparel,Shorts,13,62.19,808.47
+659,2024-10-20,North America,Footwear,Jackets,11,242.17,2663.87
+660,2024-10-21,Europe,Equipment,Jackets,11,223.57,2459.27
+661,2024-10-22,Latin America,Equipment,T-Shirts,14,114.07,1596.98
+662,2024-10-23,North America,Equipment,Running Shoes,13,204.39,2657.07
+663,2024-10-24,India,Footwear,Shorts,14,249.35,3490.9
+664,2024-10-25,Latin America,Footwear,T-Shirts,10,221.0,2210.0
+665,2024-10-26,Asia-Pacific,Equipment,Training Shoes,1,48.12,48.12
+666,2024-10-27,Asia-Pacific,Apparel,Running Shoes,18,42.9,772.2
+667,2024-10-28,Asia-Pacific,Equipment,Basketball Shoes,11,102.68,1129.48
+668,2024-10-29,Latin America,Footwear,Training Shoes,5,134.98,674.9
+669,2024-10-30,India,Equipment,Training Shoes,3,77.48,232.44
+670,2024-10-31,Asia-Pacific,Footwear,T-Shirts,17,60.63,1030.71
+671,2024-11-01,Latin America,Apparel,Running Shoes,13,77.14,1002.82
+672,2024-11-02,India,Apparel,T-Shirts,8,240.5,1924.0
+673,2024-11-03,Europe,Footwear,Basketball Shoes,7,207.18,1450.26
+674,2024-11-04,North America,Apparel,Training Shoes,17,59.93,1018.81
+675,2024-11-05,North America,Apparel,Bags,3,121.65,364.95
+676,2024-11-06,North America,Footwear,Running Shoes,9,214.92,1934.28
+677,2024-11-07,North America,Apparel,Training Shoes,2,86.47,172.94
+678,2024-11-08,Asia-Pacific,Footwear,T-Shirts,9,142.32,1280.88
+679,2024-11-09,India,Footwear,Basketball Shoes,3,89.93,269.79
+680,2024-11-10,India,Footwear,Jackets,9,233.99,2105.91
+681,2024-11-11,Europe,Equipment,Bags,4,140.03,560.12
+682,2024-11-12,North America,Apparel,T-Shirts,14,94.28,1319.92
+683,2024-11-13,Asia-Pacific,Footwear,Basketball Shoes,6,190.89,1145.34
+684,2024-11-14,Europe,Footwear,T-Shirts,12,78.08,936.96
+685,2024-11-15,North America,Equipment,Jackets,11,82.61,908.71
+686,2024-11-16,Europe,Equipment,Shorts,3,233.32,699.96
+687,2024-11-17,Asia-Pacific,Footwear,Jackets,9,225.52,2029.68
+688,2024-11-18,Asia-Pacific,Apparel,Jackets,16,64.45,1031.2
+689,2024-11-19,Europe,Apparel,Training Shoes,11,47.42,521.62
+690,2024-11-20,North America,Equipment,Basketball Shoes,19,222.95,4236.05
+691,2024-11-21,Latin America,Equipment,T-Shirts,11,122.15,1343.65
+692,2024-11-22,Latin America,Footwear,Basketball Shoes,1,198.31,198.31
+693,2024-11-23,Latin America,Footwear,T-Shirts,15,103.52,1552.8
+694,2024-11-24,North America,Footwear,Training Shoes,14,38.91,544.74
+695,2024-11-25,Latin America,Apparel,Running Shoes,3,52.77,158.31
+696,2024-11-26,Europe,Apparel,Shorts,17,129.81,2206.77
+697,2024-11-27,Asia-Pacific,Equipment,Shorts,13,192.46,2501.98
+698,2024-11-28,North America,Equipment,Jackets,2,230.17,460.34
+699,2024-11-29,Asia-Pacific,Footwear,Shorts,14,94.89,1328.46
+700,2024-11-30,India,Apparel,Shorts,5,119.82,599.1
+701,2024-12-01,India,Equipment,Running Shoes,4,185.4,741.6
+702,2024-12-02,Europe,Equipment,Basketball Shoes,16,180.47,2887.52
+703,2024-12-03,North America,Footwear,T-Shirts,9,200.78,1807.02
+704,2024-12-04,Asia-Pacific,Apparel,T-Shirts,15,193.37,2900.55
+705,2024-12-05,Latin America,Footwear,Basketball Shoes,2,143.82,287.64
+706,2024-12-06,North America,Equipment,Bags,6,195.28,1171.68
+707,2024-12-07,Europe,Apparel,Bags,8,125.6,1004.8
+708,2024-12-08,India,Equipment,Bags,8,200.52,1604.16
+709,2024-12-09,Latin America,Footwear,Shorts,1,128.54,128.54
+710,2024-12-10,Asia-Pacific,Apparel,Training Shoes,18,49.94,898.92
+711,2024-12-11,North America,Footwear,Jackets,6,207.16,1242.96
+712,2024-12-12,Europe,Equipment,Basketball Shoes,12,60.58,726.96
+713,2024-12-13,Latin America,Equipment,Shorts,7,147.37,1031.59
+714,2024-12-14,Asia-Pacific,Apparel,Shorts,12,189.96,2279.52
+715,2024-12-15,Asia-Pacific,Apparel,Training Shoes,17,166.79,2835.43
+716,2024-12-16,North America,Equipment,Shorts,14,151.19,2116.66
+717,2024-12-17,North America,Equipment,Basketball Shoes,6,244.78,1468.68
+718,2024-12-18,Asia-Pacific,Footwear,Jackets,5,84.36,421.8
+719,2024-12-19,Europe,Equipment,T-Shirts,5,137.76,688.8
+720,2024-12-20,Europe,Equipment,T-Shirts,4,192.21,768.84
+721,2024-12-21,Europe,Equipment,Bags,3,245.64,736.92
+722,2024-12-22,Latin America,Equipment,Shorts,17,78.23,1329.91
+723,2024-12-23,North America,Apparel,Jackets,13,32.65,424.45
+724,2024-12-24,Europe,Equipment,T-Shirts,1,206.75,206.75
+725,2024-12-25,Asia-Pacific,Equipment,Training Shoes,9,170.17,1531.53
+726,2024-12-26,Europe,Footwear,Training Shoes,4,125.5,502.0
+727,2024-12-27,India,Footwear,Shorts,3,230.46,691.38
+728,2024-12-28,Asia-Pacific,Apparel,Running Shoes,9,245.05,2205.45
+729,2024-12-29,North America,Apparel,Shorts,9,108.93,980.37
+730,2024-12-30,Europe,Footwear,Shorts,17,120.16,2042.72
+731,2024-12-31,North America,Footwear,Training Shoes,13,151.1,1964.3
+732,2025-01-01,North America,Footwear,Jackets,5,111.88,559.4
+733,2025-01-02,North America,Apparel,Running Shoes,13,124.95,1624.35
+734,2025-01-03,India,Footwear,Shorts,10,78.0,780.0
+735,2025-01-04,India,Equipment,T-Shirts,6,212.89,1277.34
+736,2025-01-05,India,Footwear,Running Shoes,8,125.23,1001.84
+737,2025-01-06,Asia-Pacific,Footwear,Bags,16,228.59,3657.44
+738,2025-01-07,North America,Equipment,Basketball Shoes,9,209.81,1888.29
+739,2025-01-08,Latin America,Footwear,Basketball Shoes,10,136.72,1367.2
+740,2025-01-09,North America,Equipment,Shorts,13,70.23,912.99
+741,2025-01-10,India,Equipment,T-Shirts,1,28.27,28.27
+742,2025-01-11,North America,Footwear,Training Shoes,11,87.91,967.01
+743,2025-01-12,Asia-Pacific,Footwear,Shorts,14,207.5,2905.0
+744,2025-01-13,Asia-Pacific,Footwear,Bags,7,149.68,1047.76
+745,2025-01-14,North America,Footwear,Running Shoes,3,198.28,594.84
+746,2025-01-15,Europe,Equipment,T-Shirts,1,47.31,47.31
+747,2025-01-16,Latin America,Apparel,Bags,16,194.68,3114.88
+748,2025-01-17,Latin America,Equipment,Jackets,4,246.94,987.76
+749,2025-01-18,Europe,Apparel,Running Shoes,18,30.89,556.02
+750,2025-01-19,Latin America,Apparel,T-Shirts,10,55.03,550.3
+751,2025-01-20,Europe,Apparel,Basketball Shoes,10,217.21,2172.1
+752,2025-01-21,Asia-Pacific,Equipment,Basketball Shoes,16,110.84,1773.44
+753,2025-01-22,North America,Equipment,Shorts,1,97.35,97.35
+754,2025-01-23,Europe,Apparel,Running Shoes,8,216.16,1729.28
+755,2025-01-24,Asia-Pacific,Footwear,Training Shoes,11,223.14,2454.54
+756,2025-01-25,India,Footwear,Shorts,5,248.34,1241.7
+757,2025-01-26,North America,Equipment,Shorts,9,81.38,732.42
+758,2025-01-27,North America,Apparel,Running Shoes,15,155.26,2328.9
+759,2025-01-28,Europe,Apparel,Basketball Shoes,14,47.26,661.64
+760,2025-01-29,Europe,Footwear,Running Shoes,4,138.45,553.8
+761,2025-01-30,North America,Footwear,Training Shoes,6,213.61,1281.66
+762,2025-01-31,North America,Footwear,Running Shoes,1,99.88,99.88
+763,2025-02-01,Europe,Apparel,Bags,17,140.29,2384.93
+764,2025-02-02,Europe,Footwear,Shorts,15,174.9,2623.5
+765,2025-02-03,Latin America,Apparel,T-Shirts,18,41.08,739.44
+766,2025-02-04,North America,Equipment,Shorts,12,89.85,1078.2
+767,2025-02-05,Asia-Pacific,Equipment,Shorts,15,107.63,1614.45
+768,2025-02-06,Asia-Pacific,Equipment,Jackets,8,231.08,1848.64
+769,2025-02-07,Europe,Footwear,Training Shoes,18,181.52,3267.36
+770,2025-02-08,India,Footwear,T-Shirts,12,165.07,1980.84
+771,2025-02-09,Asia-Pacific,Equipment,Basketball Shoes,11,79.05,869.55
+772,2025-02-10,India,Apparel,T-Shirts,17,217.1,3690.7
+773,2025-02-11,Asia-Pacific,Equipment,Training Shoes,5,75.86,379.3
+774,2025-02-12,North America,Footwear,Shorts,8,198.24,1585.92
+775,2025-02-13,North America,Footwear,T-Shirts,2,86.43,172.86
+776,2025-02-14,India,Footwear,Training Shoes,12,238.23,2858.76
+777,2025-02-15,North America,Footwear,Running Shoes,2,37.05,74.1
+778,2025-02-16,India,Apparel,Basketball Shoes,13,50.2,652.6
+779,2025-02-17,Europe,Footwear,Jackets,5,225.95,1129.75
+780,2025-02-18,Asia-Pacific,Footwear,Running Shoes,17,62.21,1057.57
+781,2025-02-19,India,Apparel,T-Shirts,5,156.93,784.65
+782,2025-02-20,Asia-Pacific,Equipment,T-Shirts,10,105.79,1057.9
+783,2025-02-21,Asia-Pacific,Equipment,Training Shoes,18,154.99,2789.82
+784,2025-02-22,Asia-Pacific,Footwear,Shorts,6,163.08,978.48
+785,2025-02-23,Europe,Equipment,Running Shoes,13,131.69,1711.97
+786,2025-02-24,Asia-Pacific,Equipment,T-Shirts,18,136.82,2462.76
+787,2025-02-25,Europe,Equipment,Training Shoes,2,190.92,381.84
+788,2025-02-26,Asia-Pacific,Apparel,Bags,13,66.11,859.43
+789,2025-02-27,Asia-Pacific,Apparel,Basketball Shoes,13,182.6,2373.8
+790,2025-02-28,North America,Footwear,Shorts,17,32.03,544.51
+791,2025-03-01,Latin America,Equipment,Jackets,4,202.42,809.68
+792,2025-03-02,North America,Equipment,T-Shirts,13,116.33,1512.29
+793,2025-03-03,North America,Apparel,T-Shirts,17,178.63,3036.71
+794,2025-03-04,North America,Equipment,T-Shirts,5,58.53,292.65
+795,2025-03-05,Europe,Footwear,Training Shoes,10,241.47,2414.7
+796,2025-03-06,Europe,Apparel,Running Shoes,11,232.51,2557.61
+797,2025-03-07,Asia-Pacific,Apparel,Training Shoes,9,222.02,1998.18
+798,2025-03-08,North America,Equipment,Basketball Shoes,19,208.58,3963.02
+799,2025-03-09,Europe,Footwear,Training Shoes,1,193.89,193.89
+800,2025-03-10,India,Apparel,T-Shirts,8,29.62,236.96
+801,2025-03-11,Asia-Pacific,Apparel,Training Shoes,2,130.53,261.06
+802,2025-03-12,Europe,Apparel,Training Shoes,16,71.99,1151.84
+803,2025-03-13,Asia-Pacific,Footwear,Shorts,16,41.58,665.28
+804,2025-03-14,Asia-Pacific,Equipment,Bags,14,181.83,2545.62
+805,2025-03-15,North America,Footwear,T-Shirts,6,248.35,1490.1
+806,2025-03-16,India,Equipment,Basketball Shoes,12,243.82,2925.84
+807,2025-03-17,Latin America,Footwear,Bags,7,113.21,792.47
+808,2025-03-18,Europe,Apparel,Shorts,8,76.58,612.64
+809,2025-03-19,North America,Apparel,T-Shirts,9,160.71,1446.39
+810,2025-03-20,India,Footwear,Shorts,18,55.53,999.54
+811,2025-03-21,North America,Footwear,Jackets,16,209.03,3344.48
+812,2025-03-22,Europe,Footwear,Shorts,13,226.52,2944.76
+813,2025-03-23,North America,Apparel,Bags,1,162.81,162.81
+814,2025-03-24,Latin America,Apparel,Running Shoes,8,223.79,1790.32
+815,2025-03-25,Latin America,Equipment,Training Shoes,13,70.49,916.37
+816,2025-03-26,North America,Apparel,T-Shirts,2,222.54,445.08
+817,2025-03-27,Asia-Pacific,Footwear,Basketball Shoes,14,96.97,1357.58
+818,2025-03-28,Latin America,Apparel,Training Shoes,17,140.1,2381.7
+819,2025-03-29,Latin America,Apparel,Running Shoes,13,232.48,3022.24
+820,2025-03-30,India,Footwear,T-Shirts,17,138.52,2354.84
+821,2025-03-31,India,Apparel,Bags,17,205.21,3488.57
+822,2025-04-01,Latin America,Footwear,Basketball Shoes,16,73.25,1172.0
+823,2025-04-02,Europe,Apparel,Jackets,13,35.72,464.36
+824,2025-04-03,Europe,Equipment,T-Shirts,14,237.3,3322.2
+825,2025-04-04,Latin America,Apparel,Jackets,18,231.81,4172.58
+826,2025-04-05,Asia-Pacific,Apparel,Running Shoes,18,201.49,3626.82
+827,2025-04-06,North America,Equipment,Jackets,9,136.64,1229.76
+828,2025-04-07,North America,Footwear,Training Shoes,14,77.02,1078.28
+829,2025-04-08,India,Footwear,T-Shirts,6,34.16,204.96
+830,2025-04-09,Latin America,Footwear,Jackets,9,217.93,1961.37
+831,2025-04-10,Asia-Pacific,Footwear,Bags,5,226.63,1133.15
+832,2025-04-11,Europe,Apparel,Basketball Shoes,5,79.41,397.05
+833,2025-04-12,India,Equipment,Bags,19,172.57,3278.83
+834,2025-04-13,North America,Apparel,T-Shirts,1,138.72,138.72
+835,2025-04-14,Latin America,Footwear,Running Shoes,1,135.63,135.63
+836,2025-04-15,Asia-Pacific,Apparel,Bags,3,133.51,400.53
+837,2025-04-16,Europe,Apparel,Training Shoes,3,140.32,420.96
+838,2025-04-17,India,Footwear,Training Shoes,14,39.78,556.92
+839,2025-04-18,India,Apparel,Running Shoes,16,75.66,1210.56
+840,2025-04-19,Europe,Equipment,T-Shirts,7,78.12,546.84
+841,2025-04-20,Europe,Equipment,Running Shoes,1,115.31,115.31
+842,2025-04-21,India,Apparel,Running Shoes,7,111.97,783.79
+843,2025-04-22,Latin America,Footwear,Training Shoes,11,245.76,2703.36
+844,2025-04-23,Europe,Apparel,Shorts,16,233.24,3731.84
+845,2025-04-24,North America,Equipment,Basketball Shoes,17,181.97,3093.49
+846,2025-04-25,Latin America,Footwear,T-Shirts,5,108.3,541.5
+847,2025-04-26,India,Equipment,Running Shoes,8,151.82,1214.56
+848,2025-04-27,India,Footwear,Training Shoes,16,132.76,2124.16
+849,2025-04-28,North America,Apparel,Shorts,1,108.15,108.15
+850,2025-04-29,Asia-Pacific,Apparel,Training Shoes,12,217.3,2607.6
+851,2025-04-30,Latin America,Footwear,Training Shoes,17,199.03,3383.51
+852,2025-05-01,Latin America,Apparel,Shorts,7,185.63,1299.41
+853,2025-05-02,North America,Equipment,Bags,3,108.58,325.74
+854,2025-05-03,Asia-Pacific,Equipment,Bags,3,115.8,347.4
+855,2025-05-04,India,Equipment,T-Shirts,14,106.12,1485.68
+856,2025-05-05,Europe,Apparel,Running Shoes,5,179.82,899.1
+857,2025-05-06,Latin America,Equipment,Running Shoes,5,190.67,953.35
+858,2025-05-07,Asia-Pacific,Apparel,Shorts,9,206.93,1862.37
+859,2025-05-08,Europe,Equipment,Running Shoes,9,152.53,1372.77
+860,2025-05-09,Europe,Equipment,Basketball Shoes,14,91.86,1286.04
+861,2025-05-10,India,Footwear,Running Shoes,16,205.25,3284.0
+862,2025-05-11,Europe,Apparel,Shorts,2,165.0,330.0
+863,2025-05-12,Latin America,Apparel,T-Shirts,19,241.73,4592.87
+864,2025-05-13,Europe,Equipment,Bags,6,108.91,653.46
+865,2025-05-14,India,Footwear,Shorts,13,61.79,803.27
+866,2025-05-15,North America,Apparel,Shorts,1,213.51,213.51
+867,2025-05-16,Asia-Pacific,Footwear,Jackets,5,25.4,127.0
+868,2025-05-17,Asia-Pacific,Apparel,Running Shoes,4,60.94,243.76
+869,2025-05-18,Europe,Equipment,T-Shirts,7,162.03,1134.21
+870,2025-05-19,Latin America,Apparel,Running Shoes,16,180.38,2886.08
+871,2025-05-20,Latin America,Apparel,T-Shirts,3,81.85,245.55
+872,2025-05-21,Latin America,Apparel,Bags,19,32.45,616.55
+873,2025-05-22,Latin America,Apparel,Training Shoes,8,149.71,1197.68
+874,2025-05-23,North America,Footwear,Training Shoes,13,200.34,2604.42
+875,2025-05-24,Asia-Pacific,Apparel,Basketball Shoes,12,248.07,2976.84
+876,2025-05-25,Latin America,Equipment,Shorts,13,94.84,1232.92
+877,2025-05-26,Latin America,Footwear,Basketball Shoes,19,93.91,1784.29
+878,2025-05-27,Europe,Equipment,Bags,19,184.08,3497.52
+879,2025-05-28,Latin America,Footwear,Basketball Shoes,19,201.75,3833.25
+880,2025-05-29,Latin America,Apparel,Training Shoes,5,89.66,448.3
+881,2025-05-30,Latin America,Footwear,Jackets,11,49.83,548.13
+882,2025-05-31,Asia-Pacific,Equipment,Jackets,6,81.42,488.52
+883,2025-06-01,North America,Footwear,T-Shirts,12,81.28,975.36
+884,2025-06-02,North America,Apparel,Shorts,3,140.45,421.35
+885,2025-06-03,North America,Footwear,Training Shoes,8,68.51,548.08
+886,2025-06-04,Latin America,Footwear,Basketball Shoes,19,41.75,793.25
+887,2025-06-05,Asia-Pacific,Equipment,Running Shoes,17,242.21,4117.57
+888,2025-06-06,North America,Footwear,Running Shoes,17,161.44,2744.48
+889,2025-06-07,Latin America,Apparel,T-Shirts,15,28.88,433.2
+890,2025-06-08,North America,Footwear,Shorts,2,185.88,371.76
+891,2025-06-09,Asia-Pacific,Footwear,Training Shoes,8,65.84,526.72
+892,2025-06-10,India,Apparel,Running Shoes,1,113.95,113.95
+893,2025-06-11,India,Apparel,Shorts,11,148.51,1633.61
+894,2025-06-12,India,Footwear,T-Shirts,15,189.84,2847.6
+895,2025-06-13,Latin America,Footwear,Running Shoes,10,241.71,2417.1
+896,2025-06-14,North America,Footwear,Training Shoes,7,81.51,570.57
+897,2025-06-15,Asia-Pacific,Apparel,Training Shoes,5,33.97,169.85
+898,2025-06-16,Asia-Pacific,Equipment,Shorts,15,70.03,1050.45
+899,2025-06-17,North America,Apparel,Basketball Shoes,19,99.13,1883.47
+900,2025-06-18,North America,Apparel,Basketball Shoes,17,73.86,1255.62
+901,2025-06-19,Asia-Pacific,Footwear,Training Shoes,10,120.05,1200.5
+902,2025-06-20,India,Apparel,Shorts,19,121.25,2303.75
+903,2025-06-21,North America,Equipment,Running Shoes,6,238.36,1430.16
+904,2025-06-22,North America,Footwear,T-Shirts,4,238.74,954.96
+905,2025-06-23,India,Footwear,Running Shoes,6,123.45,740.7
+906,2025-06-24,North America,Apparel,Bags,7,106.77,747.39
+907,2025-06-25,India,Equipment,Training Shoes,17,223.93,3806.81
+908,2025-06-26,Latin America,Footwear,Training Shoes,13,182.72,2375.36
+909,2025-06-27,North America,Apparel,T-Shirts,17,224.67,3819.39
+910,2025-06-28,Latin America,Equipment,Shorts,11,120.22,1322.42
+911,2025-06-29,India,Equipment,Shorts,16,29.9,478.4
+912,2025-06-30,Europe,Apparel,Shorts,13,92.19,1198.47
+913,2025-07-01,Asia-Pacific,Footwear,Jackets,4,70.27,281.08
+914,2025-07-02,Asia-Pacific,Apparel,Jackets,2,164.73,329.46
+915,2025-07-03,North America,Apparel,Shorts,2,157.81,315.62
+916,2025-07-04,India,Equipment,Basketball Shoes,12,49.82,597.84
+917,2025-07-05,Europe,Footwear,Bags,6,205.3,1231.8
+918,2025-07-06,India,Equipment,Running Shoes,18,178.24,3208.32
+919,2025-07-07,Latin America,Footwear,Basketball Shoes,7,118.17,827.19
+920,2025-07-08,India,Apparel,Jackets,4,123.62,494.48
+921,2025-07-09,Asia-Pacific,Equipment,Running Shoes,9,130.14,1171.26
+922,2025-07-10,Europe,Equipment,Shorts,17,178.73,3038.41
+923,2025-07-11,Asia-Pacific,Footwear,Training Shoes,1,134.56,134.56
+924,2025-07-12,Europe,Equipment,Basketball Shoes,6,227.8,1366.8
+925,2025-07-13,India,Footwear,Jackets,9,166.18,1495.62
+926,2025-07-14,Asia-Pacific,Equipment,Running Shoes,5,106.5,532.5
+927,2025-07-15,India,Footwear,Training Shoes,14,199.85,2797.9
+928,2025-07-16,India,Equipment,Running Shoes,2,155.43,310.86
+929,2025-07-17,Asia-Pacific,Footwear,Bags,7,67.42,471.94
+930,2025-07-18,North America,Apparel,Running Shoes,16,174.38,2790.08
+931,2025-07-19,Latin America,Equipment,T-Shirts,8,226.67,1813.36
+932,2025-07-20,Latin America,Equipment,Basketball Shoes,1,128.8,128.8
+933,2025-07-21,Asia-Pacific,Equipment,Running Shoes,3,155.29,465.87
+934,2025-07-22,Latin America,Apparel,Shorts,14,41.71,583.94
+935,2025-07-23,India,Footwear,Running Shoes,1,37.62,37.62
+936,2025-07-24,Europe,Apparel,T-Shirts,19,82.63,1569.97
+937,2025-07-25,India,Footwear,Jackets,7,238.84,1671.88
+938,2025-07-26,North America,Apparel,T-Shirts,7,48.7,340.9
+939,2025-07-27,Europe,Equipment,Jackets,9,96.51,868.59
+940,2025-07-28,North America,Equipment,Training Shoes,14,173.05,2422.7
+941,2025-07-29,Latin America,Equipment,Training Shoes,12,225.9,2710.8
+942,2025-07-30,India,Apparel,Shorts,14,240.76,3370.64
+943,2025-07-31,India,Equipment,Basketball Shoes,5,169.17,845.85
+944,2025-08-01,Asia-Pacific,Equipment,Bags,10,35.12,351.2
+945,2025-08-02,North America,Footwear,T-Shirts,10,123.92,1239.2
+946,2025-08-03,North America,Equipment,Jackets,6,227.17,1363.02
+947,2025-08-04,India,Apparel,Running Shoes,9,94.05,846.45
+948,2025-08-05,Europe,Footwear,Basketball Shoes,10,26.28,262.8
+949,2025-08-06,Asia-Pacific,Apparel,T-Shirts,5,232.85,1164.25
+950,2025-08-07,Latin America,Footwear,Jackets,1,225.38,225.38
+951,2025-08-08,Asia-Pacific,Equipment,Running Shoes,11,188.86,2077.46
+952,2025-08-09,India,Equipment,Shorts,14,62.51,875.14
+953,2025-08-10,Europe,Equipment,T-Shirts,10,186.53,1865.3
+954,2025-08-11,Europe,Equipment,Shorts,9,53.22,478.98
+955,2025-08-12,Latin America,Equipment,Shorts,10,80.99,809.9
+956,2025-08-13,India,Equipment,Basketball Shoes,10,30.42,304.2
+957,2025-08-14,India,Footwear,Basketball Shoes,1,73.42,73.42
+958,2025-08-15,Europe,Apparel,T-Shirts,11,224.61,2470.71
+959,2025-08-16,Europe,Apparel,Basketball Shoes,18,193.01,3474.18
+960,2025-08-17,Europe,Apparel,T-Shirts,13,177.32,2305.16
+961,2025-08-18,North America,Footwear,T-Shirts,10,160.4,1604.0
+962,2025-08-19,North America,Footwear,Shorts,11,74.16,815.76
+963,2025-08-20,Latin America,Equipment,Training Shoes,14,44.51,623.14
+964,2025-08-21,Latin America,Apparel,Jackets,7,82.02,574.14
+965,2025-08-22,North America,Footwear,Training Shoes,8,218.21,1745.68
+966,2025-08-23,North America,Footwear,T-Shirts,6,141.21,847.26
+967,2025-08-24,North America,Equipment,Training Shoes,10,40.83,408.3
+968,2025-08-25,Europe,Footwear,Bags,14,88.89,1244.46
+969,2025-08-26,India,Equipment,T-Shirts,5,126.51,632.55
+970,2025-08-27,Europe,Equipment,Running Shoes,10,64.61,646.1
+971,2025-08-28,North America,Apparel,Training Shoes,10,49.09,490.9
+972,2025-08-29,North America,Footwear,Running Shoes,19,135.16,2568.04
+973,2025-08-30,North America,Footwear,Training Shoes,10,222.04,2220.4
+974,2025-08-31,India,Footwear,T-Shirts,11,77.07,847.77
+975,2025-09-01,North America,Footwear,Jackets,3,122.78,368.34
+976,2025-09-02,Europe,Apparel,Basketball Shoes,13,204.53,2658.89
+977,2025-09-03,Latin America,Equipment,Shorts,7,152.18,1065.26
+978,2025-09-04,Europe,Footwear,Bags,12,166.98,2003.76
+979,2025-09-05,North America,Footwear,Basketball Shoes,13,185.86,2416.18
+980,2025-09-06,North America,Footwear,Bags,15,208.23,3123.45
+981,2025-09-07,India,Footwear,Shorts,12,37.02,444.24
+982,2025-09-08,Europe,Equipment,Running Shoes,12,153.44,1841.28
+983,2025-09-09,India,Apparel,Training Shoes,11,44.55,490.05
+984,2025-09-10,Europe,Apparel,Running Shoes,7,60.97,426.79
+985,2025-09-11,Latin America,Equipment,Jackets,19,36.58,695.02
+986,2025-09-12,Europe,Footwear,Bags,14,64.39,901.46
+987,2025-09-13,Europe,Apparel,Training Shoes,8,221.55,1772.4
+988,2025-09-14,Latin America,Equipment,Basketball Shoes,6,63.08,378.48
+989,2025-09-15,Europe,Apparel,Jackets,19,29.85,567.15
+990,2025-09-16,India,Footwear,T-Shirts,16,82.18,1314.88
+991,2025-09-17,India,Apparel,Jackets,7,198.09,1386.63
+992,2025-09-18,Asia-Pacific,Equipment,Training Shoes,16,144.22,2307.52
+993,2025-09-19,Europe,Equipment,Shorts,10,147.5,1475.0
+994,2025-09-20,India,Apparel,Bags,12,173.61,2083.32
+995,2025-09-21,Europe,Apparel,Training Shoes,8,95.48,763.84
+996,2025-09-22,North America,Apparel,Basketball Shoes,15,202.63,3039.45
+997,2025-09-23,India,Equipment,Running Shoes,8,135.97,1087.76
+998,2025-09-24,North America,Apparel,Jackets,13,94.42,1227.46
+999,2025-09-25,Latin America,Footwear,T-Shirts,17,83.98,1427.66
+1000,2025-09-26,Europe,Apparel,Jackets,6,246.13,1476.78
+1001,2025-09-27,Latin America,Apparel,Bags,3,202.06,606.18
+1002,2025-09-28,North America,Apparel,Basketball Shoes,3,150.09,450.27
+1003,2025-09-29,North America,Apparel,Running Shoes,12,140.49,1685.88
+1004,2025-09-30,Europe,Footwear,Running Shoes,4,161.62,646.48
+1005,2025-10-01,Europe,Apparel,Jackets,9,30.46,274.14
+1006,2025-10-02,Asia-Pacific,Equipment,Bags,16,43.77,700.32
+1007,2025-10-03,Europe,Apparel,Jackets,10,170.86,1708.6
+1008,2025-10-04,India,Apparel,Shorts,7,176.39,1234.73
+1009,2025-10-05,India,Apparel,Running Shoes,7,225.1,1575.7
+1010,2025-10-06,North America,Footwear,Basketball Shoes,7,163.57,1144.99
+1011,2025-10-07,India,Footwear,Shorts,17,192.08,3265.36
+1012,2025-10-08,Asia-Pacific,Apparel,Jackets,5,152.21,761.05
+1013,2025-10-09,Latin America,Apparel,Bags,19,115.39,2192.41
+1014,2025-10-10,Latin America,Footwear,Basketball Shoes,17,127.69,2170.73
+1015,2025-10-11,India,Equipment,Training Shoes,13,239.59,3114.67
+1016,2025-10-12,North America,Apparel,Bags,15,234.82,3522.3
+1017,2025-10-13,Europe,Apparel,Training Shoes,14,223.7,3131.8
+1018,2025-10-14,Asia-Pacific,Equipment,T-Shirts,14,153.92,2154.88
+1019,2025-10-15,Europe,Apparel,Shorts,3,73.15,219.45
+1020,2025-10-16,Europe,Equipment,Shorts,11,42.66,469.26
+1021,2025-10-17,Europe,Equipment,Bags,6,229.73,1378.38
+1022,2025-10-18,Europe,Apparel,T-Shirts,17,48.16,818.72
+1023,2025-10-19,Asia-Pacific,Apparel,T-Shirts,16,105.02,1680.32
+1024,2025-10-20,Europe,Footwear,Running Shoes,18,207.95,3743.1
+1025,2025-10-21,North America,Footwear,T-Shirts,7,71.43,500.01
+1026,2025-10-22,Latin America,Equipment,Shorts,18,204.4,3679.2
+1027,2025-10-23,North America,Apparel,Running Shoes,8,78.37,626.96
+1028,2025-10-24,North America,Apparel,T-Shirts,13,201.54,2620.02
+1029,2025-10-25,Latin America,Footwear,Bags,6,185.1,1110.6
+1030,2025-10-26,North America,Footwear,Basketball Shoes,9,89.39,804.51
+1031,2025-10-27,Latin America,Apparel,Shorts,14,100.89,1412.46
+1032,2025-10-28,North America,Apparel,T-Shirts,9,106.59,959.31
+1033,2025-10-29,Europe,Equipment,Bags,4,154.96,619.84
+1034,2025-10-30,Europe,Footwear,Shorts,12,228.98,2747.76
+1035,2025-10-31,Latin America,Equipment,T-Shirts,5,147.9,739.5
+1036,2025-11-01,Latin America,Apparel,T-Shirts,18,118.69,2136.42
+1037,2025-11-02,Europe,Apparel,Bags,19,112.98,2146.62
+1038,2025-11-03,Latin America,Footwear,Running Shoes,6,64.46,386.76
+1039,2025-11-04,Europe,Apparel,Jackets,4,175.73,702.92
+1040,2025-11-05,North America,Footwear,T-Shirts,17,136.57,2321.69
+1041,2025-11-06,North America,Equipment,Bags,2,226.41,452.82
+1042,2025-11-07,North America,Apparel,Training Shoes,12,141.1,1693.2
+1043,2025-11-08,North America,Footwear,T-Shirts,14,240.04,3360.56
+1044,2025-11-09,North America,Footwear,Training Shoes,11,124.05,1364.55
+1045,2025-11-10,Latin America,Footwear,Jackets,2,141.01,282.02
+1046,2025-11-11,India,Footwear,Shorts,3,66.04,198.12
+1047,2025-11-12,Latin America,Equipment,Training Shoes,1,202.57,202.57
+1048,2025-11-13,Latin America,Equipment,T-Shirts,15,31.44,471.6
+1049,2025-11-14,Latin America,Apparel,Jackets,11,65.3,718.3
+1050,2025-11-15,Latin America,Apparel,Shorts,15,95.91,1438.65
+1051,2025-11-16,Europe,Apparel,Basketball Shoes,16,213.82,3421.12
+1052,2025-11-17,India,Footwear,Shorts,5,162.51,812.55
+1053,2025-11-18,North America,Footwear,T-Shirts,16,94.12,1505.92
+1054,2025-11-19,North America,Apparel,T-Shirts,13,230.87,3001.31
+1055,2025-11-20,Asia-Pacific,Footwear,Training Shoes,9,212.09,1908.81
+1056,2025-11-21,Asia-Pacific,Footwear,Bags,6,31.96,191.76
+1057,2025-11-22,India,Equipment,Running Shoes,7,79.48,556.36
+1058,2025-11-23,Europe,Footwear,Basketball Shoes,4,181.88,727.52
+1059,2025-11-24,Europe,Footwear,Shorts,12,220.83,2649.96
+1060,2025-11-25,Europe,Apparel,Basketball Shoes,15,191.99,2879.85
+1061,2025-11-26,Asia-Pacific,Equipment,Training Shoes,7,223.86,1567.02
+1062,2025-11-27,India,Equipment,Basketball Shoes,18,53.3,959.4
+1063,2025-11-28,Latin America,Footwear,Bags,10,26.8,268.0
+1064,2025-11-29,India,Apparel,Basketball Shoes,15,124.26,1863.9
+1065,2025-11-30,India,Apparel,Basketball Shoes,8,39.31,314.48
+1066,2025-12-01,North America,Footwear,Running Shoes,9,173.98,1565.82
+1067,2025-12-02,India,Footwear,Jackets,5,231.04,1155.2
+1068,2025-12-03,North America,Apparel,Running Shoes,12,119.26,1431.12
+1069,2025-12-04,Latin America,Footwear,Training Shoes,10,155.35,1553.5
+1070,2025-12-05,North America,Equipment,T-Shirts,15,112.23,1683.45
+1071,2025-12-06,North America,Footwear,Shorts,19,61.96,1177.24
+1072,2025-12-07,North America,Apparel,Shorts,12,51.5,618.0
+1073,2025-12-08,North America,Footwear,Basketball Shoes,8,186.08,1488.64
+1074,2025-12-09,India,Apparel,Basketball Shoes,8,228.47,1827.76
+1075,2025-12-10,Asia-Pacific,Footwear,Basketball Shoes,11,107.14,1178.54
+1076,2025-12-11,Asia-Pacific,Equipment,T-Shirts,12,55.55,666.6
+1077,2025-12-12,Europe,Equipment,Bags,5,211.61,1058.05
+1078,2025-12-13,Latin America,Footwear,Running Shoes,13,84.0,1092.0
+1079,2025-12-14,Europe,Equipment,Jackets,10,197.66,1976.6
+1080,2025-12-15,Asia-Pacific,Footwear,Training Shoes,8,171.77,1374.16
+1081,2025-12-16,Europe,Footwear,T-Shirts,9,94.77,852.93
+1082,2025-12-17,Latin America,Apparel,T-Shirts,7,140.05,980.35
+1083,2025-12-18,Asia-Pacific,Equipment,Bags,8,108.18,865.44
+1084,2025-12-19,North America,Apparel,Jackets,5,53.21,266.05
+1085,2025-12-20,Asia-Pacific,Equipment,T-Shirts,7,75.44,528.08
+1086,2025-12-21,Europe,Footwear,Running Shoes,12,153.68,1844.16
+1087,2025-12-22,North America,Apparel,Jackets,19,200.52,3809.88
+1088,2025-12-23,Asia-Pacific,Footwear,Shorts,1,45.52,45.52
+1089,2025-12-24,North America,Apparel,Training Shoes,12,69.72,836.64
+1090,2025-12-25,North America,Footwear,Shorts,13,27.58,358.54
+1091,2025-12-26,Europe,Equipment,Shorts,19,246.4,4681.6
+1092,2025-12-27,Latin America,Equipment,Jackets,10,48.97,489.7
+1093,2025-12-28,Asia-Pacific,Equipment,Jackets,14,110.49,1546.86
+1094,2025-12-29,Asia-Pacific,Equipment,T-Shirts,19,37.48,712.12
+1095,2025-12-30,Europe,Footwear,Shorts,2,137.72,275.44
+1096,2025-12-31,India,Footwear,T-Shirts,1,167.28,167.28
+1097,2026-01-01,Asia-Pacific,Apparel,T-Shirts,5,142.94,714.7
+1098,2026-01-02,Europe,Apparel,Running Shoes,9,177.53,1597.77
+1099,2026-01-03,India,Equipment,Jackets,16,73.49,1175.84
+1100,2026-01-04,North America,Equipment,Bags,6,230.75,1384.5
+1101,2026-01-05,India,Footwear,T-Shirts,15,197.82,2967.3
+1102,2026-01-06,Asia-Pacific,Apparel,Shorts,6,67.67,406.02
+1103,2026-01-07,North America,Apparel,Jackets,18,126.91,2284.38
+1104,2026-01-08,India,Footwear,Running Shoes,6,29.5,177.0
+1105,2026-01-09,Europe,Equipment,Basketball Shoes,13,211.54,2750.02
+1106,2026-01-10,India,Equipment,Bags,11,226.65,2493.15
+1107,2026-01-11,Europe,Apparel,Training Shoes,1,142.85,142.85
+1108,2026-01-12,North America,Apparel,Jackets,6,105.79,634.74
+1109,2026-01-13,North America,Footwear,Shorts,9,204.87,1843.83
+1110,2026-01-14,India,Footwear,Shorts,2,104.75,209.5
+1111,2026-01-15,Latin America,Apparel,Bags,8,35.53,284.24
+1112,2026-01-16,Asia-Pacific,Apparel,T-Shirts,11,174.5,1919.5
+1113,2026-01-17,Latin America,Footwear,Basketball Shoes,15,116.45,1746.75
+1114,2026-01-18,Asia-Pacific,Footwear,Jackets,1,249.33,249.33
+1115,2026-01-19,North America,Footwear,Training Shoes,6,140.6,843.6
+1116,2026-01-20,Asia-Pacific,Equipment,Bags,16,51.11,817.76
+1117,2026-01-21,North America,Equipment,Running Shoes,7,201.37,1409.59
+1118,2026-01-22,Latin America,Footwear,Bags,16,240.99,3855.84
+1119,2026-01-23,Latin America,Apparel,Bags,6,52.21,313.26
+1120,2026-01-24,North America,Footwear,Shorts,13,97.19,1263.47
+1121,2026-01-25,Asia-Pacific,Equipment,Shorts,2,134.18,268.36
+1122,2026-01-26,Europe,Apparel,Shorts,7,184.09,1288.63
+1123,2026-01-27,Asia-Pacific,Footwear,Bags,16,183.23,2931.68
+1124,2026-01-28,India,Footwear,Shorts,13,165.46,2150.98
+1125,2026-01-29,North America,Apparel,Bags,13,219.36,2851.68
+1126,2026-01-30,Europe,Equipment,Shorts,19,190.7,3623.3
+1127,2026-01-31,North America,Apparel,Training Shoes,7,30.21,211.47
+1128,2026-02-01,Latin America,Apparel,T-Shirts,17,243.16,4133.72
+1129,2026-02-02,Latin America,Apparel,Training Shoes,11,211.44,2325.84
+1130,2026-02-03,North America,Equipment,Running Shoes,4,176.78,707.12
+1131,2026-02-04,Latin America,Equipment,Jackets,11,201.35,2214.85
+1132,2026-02-05,North America,Equipment,Shorts,3,210.73,632.19
+1133,2026-02-06,Asia-Pacific,Equipment,Jackets,8,36.18,289.44
+1134,2026-02-07,India,Apparel,Bags,5,167.94,839.7
+1135,2026-02-08,Europe,Apparel,Basketball Shoes,6,56.8,340.8
+1136,2026-02-09,Asia-Pacific,Apparel,Bags,1,82.94,82.94
+1137,2026-02-10,Latin America,Footwear,Running Shoes,7,209.58,1467.06
+1138,2026-02-11,India,Footwear,Training Shoes,19,148.32,2818.08
+1139,2026-02-12,Asia-Pacific,Footwear,Training Shoes,18,92.67,1668.06
+1140,2026-02-13,North America,Equipment,Running Shoes,16,68.04,1088.64
+1141,2026-02-14,Europe,Equipment,Bags,9,132.61,1193.49
+1142,2026-02-15,North America,Apparel,Shorts,1,48.86,48.86
+1143,2026-02-16,North America,Equipment,Basketball Shoes,17,111.39,1893.63
+1144,2026-02-17,Asia-Pacific,Footwear,Jackets,11,217.94,2397.34
+1145,2026-02-18,India,Footwear,Bags,11,108.44,1192.84
+1146,2026-02-19,Europe,Footwear,Bags,15,141.32,2119.8
+1147,2026-02-20,Asia-Pacific,Equipment,Running Shoes,15,238.5,3577.5
+1148,2026-02-21,North America,Equipment,Running Shoes,1,106.6,106.6
+1149,2026-02-22,Europe,Footwear,Training Shoes,12,87.59,1051.08
+1150,2026-02-23,Latin America,Footwear,Shorts,4,118.67,474.68
+1151,2026-02-24,Europe,Equipment,Bags,14,112.46,1574.44
+1152,2026-02-25,India,Apparel,Training Shoes,14,241.05,3374.7
+1153,2026-02-26,North America,Apparel,Training Shoes,6,28.09,168.54
+1154,2026-02-27,Asia-Pacific,Equipment,T-Shirts,3,58.93,176.79
+1155,2026-02-28,Asia-Pacific,Equipment,T-Shirts,5,201.29,1006.45
+1156,2026-03-01,India,Footwear,Running Shoes,10,25.61,256.1
+1157,2026-03-02,Europe,Equipment,Bags,2,123.33,246.66
+1158,2026-03-03,Latin America,Footwear,Training Shoes,1,181.7,181.7
+1159,2026-03-04,India,Equipment,T-Shirts,8,37.74,301.92
+1160,2026-03-05,North America,Footwear,Running Shoes,7,96.45,675.15
+1161,2026-03-06,Latin America,Apparel,T-Shirts,17,87.77,1492.09
+1162,2026-03-07,North America,Equipment,Bags,16,140.22,2243.52
+1163,2026-03-08,Latin America,Footwear,Basketball Shoes,19,165.07,3136.33
+1164,2026-03-09,India,Apparel,Jackets,5,196.34,981.7
+1165,2026-03-10,Latin America,Apparel,Running Shoes,18,46.77,841.86
+1166,2026-03-11,India,Apparel,Training Shoes,1,79.74,79.74
+1167,2026-03-12,North America,Equipment,Bags,14,195.7,2739.8
+1168,2026-03-13,North America,Equipment,Basketball Shoes,3,221.39,664.17
+1169,2026-03-14,Asia-Pacific,Equipment,Training Shoes,12,97.82,1173.84
+1170,2026-03-15,India,Apparel,Shorts,5,38.12,190.6
+1171,2026-03-16,Asia-Pacific,Equipment,Training Shoes,4,56.05,224.2
+1172,2026-03-17,Asia-Pacific,Footwear,Basketball Shoes,9,203.08,1827.72
+1173,2026-03-18,Latin America,Equipment,Running Shoes,9,54.66,491.94
+1174,2026-03-19,Europe,Equipment,Shorts,2,73.31,146.62
+1175,2026-03-20,Latin America,Apparel,Bags,19,67.91,1290.29
+1176,2026-03-21,Europe,Apparel,Jackets,11,118.15,1299.65
+1177,2026-03-22,North America,Footwear,Jackets,16,169.39,2710.24
+1178,2026-03-23,Asia-Pacific,Apparel,T-Shirts,3,55.93,167.79
+1179,2026-03-24,North America,Footwear,Shorts,9,131.18,1180.62
+1180,2026-03-25,North America,Footwear,Jackets,17,233.9,3976.3
+1181,2026-03-26,Asia-Pacific,Equipment,Basketball Shoes,10,136.39,1363.9
+1182,2026-03-27,North America,Equipment,Bags,3,134.82,404.46
+1183,2026-03-28,Latin America,Footwear,Training Shoes,7,189.92,1329.44
+1184,2026-03-29,India,Apparel,Shorts,4,150.24,600.96
+1185,2026-03-30,Asia-Pacific,Footwear,Jackets,8,124.46,995.68
+1186,2026-03-31,Asia-Pacific,Apparel,Training Shoes,4,214.38,857.52
+1187,2026-04-01,Latin America,Apparel,Training Shoes,3,56.72,170.16
+1188,2026-04-02,Latin America,Footwear,Basketball Shoes,6,71.35,428.1
+1189,2026-04-03,Europe,Apparel,Training Shoes,5,247.32,1236.6
+1190,2026-04-04,India,Equipment,Bags,12,84.39,1012.68
+1191,2026-04-05,North America,Equipment,Training Shoes,4,42.5,170.0
+1192,2026-04-06,Europe,Footwear,T-Shirts,12,61.95,743.4
+1193,2026-04-07,Europe,Equipment,Training Shoes,9,237.5,2137.5
+1194,2026-04-08,Latin America,Footwear,Running Shoes,19,66.46,1262.74
+1195,2026-04-09,Latin America,Apparel,Basketball Shoes,16,144.67,2314.72
+1196,2026-04-10,Latin America,Apparel,Shorts,14,190.12,2661.68
+1197,2026-04-11,India,Apparel,Shorts,16,30.78,492.48
+1198,2026-04-12,North America,Equipment,Running Shoes,13,88.53,1150.89
+1199,2026-04-13,North America,Equipment,Shorts,2,190.46,380.92
+1200,2026-04-14,India,Equipment,Training Shoes,19,86.65,1646.35
